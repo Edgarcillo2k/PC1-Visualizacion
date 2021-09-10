@@ -33,7 +33,7 @@ export default Vue.extend({
             g: undefined as unknown as d3.Selection<d3.BaseType, unknown, HTMLElement, any>,
             path: undefined as unknown as d3.Selection<d3.BaseType, d3.HierarchyRectangularNode<unknown>, d3.BaseType, unknown>,
             labels: undefined as unknown as d3.Selection<d3.BaseType, d3.HierarchyRectangularNode<unknown>, d3.BaseType, unknown>,
-            parent: undefined as unknown as d3.Selection<SVGCircleElement, d3.HierarchyRectangularNode<unknown>, HTMLElement, any>
+            parent: undefined as unknown as d3.Selection<SVGCircleElement, d3.HierarchyRectangularNode<unknown>, HTMLElement, any>,
         }
     },
     methods: {
@@ -105,6 +105,7 @@ export default Vue.extend({
         }
     },
     mounted(){
+        const format = d3.format(",d")
         this.root = this.partition();
         this.root.each((d: any) => d.current = d);
         this.descendants = this.root.descendants().slice(1);
@@ -118,7 +119,8 @@ export default Vue.extend({
             .attr("fill", d => this.color(d.data.color)) //define color
             .attr("fill-opacity", d => this.arcVisible(d.current) ? (d.children ? 1 : 1) : 0) //define visibilidad
             .attr("d", d => this.arc(d.current)); //dibuja el arco
-        this.path.style("cursor", "pointer").on("click",this.clicked);
+        this.path.filter(d => d.children).style("cursor", "pointer").on("click",this.clicked);
+        this.path.append("title").text(d => `${d.data.name}\nTrade Value: ${format(d.data.value)}`);
         //genera los labels
         this.labels = this.g
             .append("g")
@@ -132,6 +134,7 @@ export default Vue.extend({
             .attr("fill-opacity", d => +this.labelVisible(d.current)) //define visibilidad
             .attr("transform", d => this.labelTransform(d.current))
             .text(d => d.data.name) //texto del label
+            .style("fill", d => d.data.color>=0.6?"white":"black")
         this.parent = this.g
             .append("circle")
             .datum(this.root)
