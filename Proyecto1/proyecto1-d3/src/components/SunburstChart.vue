@@ -1,17 +1,26 @@
 <template>
-    <div>
-        <svg :viewBox="`0 0 ${width} ${width}`">
-            <g :transform="`translate(${width / 2},${width / 2})`">
-                <!--<path v-for="(item,i) in descendants" :key="i" :fill="color(item.data.color)" :d="arc(item.current)" :fill-opacity="arcVisible(item.current) ? (item.children ? 1 : 1) : 0" @click="clicked(item.current)"/>
-                <g pointer-events="none" text-anchor="middle">
-                    <text v-for="(item, i) in descendants" :key="i" :transform="labelTransform(item.current)" :fill-opacity="+labelVisible(item.current)" :class="$style.label">
-                        {{ item.data.name }}
-                    </text>
-                </g>
-                <circle :r="radius" :fill="color(1)" pointer-events="all" @click="clicked(undefined)"/>-->
-            </g>
-        </svg>
-    </div>
+    <b-container>
+        <b-row>
+            <b-col cols=9>
+                <svg :viewBox="`0 0 ${width} ${width}`">
+                    <g id="sunburst" :transform="`translate(${width / 2},${width / 2})`">
+                        <!--<path v-for="(item,i) in descendants" :key="i" :fill="color(item.data.color)" :d="arc(item.current)" :fill-opacity="arcVisible(item.current) ? (item.children ? 1 : 1) : 0" @click="clicked(item.current)"/>
+                        <g pointer-events="none" text-anchor="middle">
+                            <text v-for="(item, i) in descendants" :key="i" :transform="labelTransform(item.current)" :fill-opacity="+labelVisible(item.current)" :class="$style.label">
+                                {{ item.data.name }}
+                            </text>
+                        </g>
+                        <circle :r="radius" :fill="color(1)" pointer-events="all" @click="clicked(undefined)"/>-->
+                    </g>
+                </svg>
+            </b-col>
+            <b-col cols=3>
+                <div id="legend" class="d-inline-block">
+            
+                </div>
+            </b-col>
+        </b-row>
+    </b-container>
 </template>
 
 <script lang="ts">
@@ -105,11 +114,12 @@ export default Vue.extend({
         }
     },
     mounted(){
+        //Sunburst chart
         const format = d3.format(",d")
         this.root = this.partition();
         this.root.each((d: any) => d.current = d);
         this.descendants = this.root.descendants().slice(1);
-        this.g = select("g");
+        this.g = select("#sunburst");
         //genera los slices
         this.path = this.g
             .append("g")
@@ -142,6 +152,55 @@ export default Vue.extend({
             .attr("fill", this.color(1))
             .attr("pointer-events", "all")
             .on("click", this.clicked);
+
+        //Colorscale bar
+        const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+        const legendHeight = vh*0.7;
+        const legendWidth = 80;
+        const margin = {top: 10, right: 60, bottom: 10, left: 2};
+        const canvas = d3.select("#legend")
+            .style("height", legendHeight + "px")
+            .style("width", legendWidth + "px")
+            .style("position", "relative")
+            .append("canvas")
+            .attr("height", legendHeight - margin.top - margin.bottom)
+            .attr("width", 1)
+            .style("height", legendHeight + "px")
+            .style("width", (legendWidth - margin.left - margin.right) + "px")
+            .style("border", "1px solid #000")
+            .style("position", "absolute")
+            .style("top", (margin.top) + "px")
+            .style("left", (margin.left) + "px")
+            .node();
+
+        const ctx = canvas?.getContext("2d");
+        const colorScale = d3.scaleSequential().domain([0,1]).interpolator(d3.interpolateYlOrRd);
+        const legendScale = d3.scaleLinear().range([1,legendHeight - margin.top - margin.bottom]).domain(colorScale.domain());
+
+        const image = ctx?.createImageData(1, legendHeight - margin.top - margin.bottom);
+        d3.range(legendHeight).forEach(function(i) {
+            var c = d3.rgb(colorScale(legendScale.invert(i)));
+            image!.data[4*i] = c.r;
+            image!.data[4*i + 1] = c.g;
+            image!.data[4*i + 2] = c.b;
+            image!.data[4*i + 3] = 255;
+        });
+        ctx?.putImageData(image!, 0, 0);
+
+        const legendAxis = d3.axisRight(legendScale).tickSize(6).ticks(10);
+        const svg = d3.select("#legend")
+            .append("svg")
+            .attr("height", legendHeight + "px")
+            .attr("width", (legendWidth) + "px")
+            .style("position", "absolute")
+            .style("left", "0px")
+            .style("top", "0px")
+
+        svg
+            .append("g")
+            .attr("class", "axis")
+            .attr("transform", "translate(" + (legendWidth - margin.left - margin.right + 3) + "," + (margin.top) + ")")
+            .call(legendAxis);
     }   
 });
 </script>
