@@ -238,7 +238,7 @@ export default Vue.extend({
         ctx?.putImageData(image!, 0, 0);
 
         //leyenda con escala indicada de 0.1 en 0.1 del 0 al 1.
-        const legendAxis = d3.axisRight(legendScale).tickSize(6).ticks(10);
+        const legendAxis = d3.axisRight(legendScale).tickSize(10).ticks(10);
         const svg = d3.select("#legend")
             .append("svg")
             .attr("height", legendHeight + "px")
@@ -257,16 +257,25 @@ export default Vue.extend({
 </script>
 
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,400&display=swap');
     text {
         fill: black;
-        font-size: 13px;
+        font-size: 20px;
         pointer-events: none;
         text-anchor: middle;
         word-wrap: break-word;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #legend text {
+        fill: black;
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
     }
 
     h6 {
         color: black;
-        font-size: 13px;
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
     }
 </style>
