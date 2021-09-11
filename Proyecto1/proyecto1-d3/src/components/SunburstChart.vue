@@ -4,20 +4,12 @@
             <b-col cols=10>
                 <svg id="svg" :viewBox="`0 0 ${width} ${width}`">
                     <g id="sunburst" :transform="`translate(${width / 2},${width / 2})`">
-                        <!--<path v-for="(item,i) in descendants" :key="i" :fill="color(item.data.color)" :d="arc(item.current)" :fill-opacity="arcVisible(item.current) ? (item.children ? 1 : 1) : 0" @click="clicked(item.current)"/>
-                        <g pointer-events="none" text-anchor="middle">
-                            <text v-for="(item, i) in descendants" :key="i" :transform="labelTransform(item.current)" :fill-opacity="+labelVisible(item.current)" :class="$style.label">
-                                {{ item.data.name }}
-                            </text>
-                        </g>
-                        <circle :r="radius" :fill="color(1)" pointer-events="all" @click="clicked(undefined)"/>-->
                     </g>
                 </svg>
             </b-col>
             <b-col cols=2>
                 <h6>Trade Value<br>max relative <br>to section</h6>
                 <div id="legend" class="d-inline-block">
-            
                 </div>
             </b-col>
         </b-row>
@@ -111,17 +103,22 @@ export default Vue.extend({
         },
         clicked(event: any, p: d3.HierarchyRectangularNode<unknown>){
             this.parent.datum(p.parent || this.root);
+
+            //cambia el color del padre
             this.parent.attr("fill", this.color(p.data.color));
 
+            //cambia el titulo del padre
             this.title.style("fill", p.data.color>=0.6?"white":"black").text(p.data.name);
 
             //no se que hace esto pero dejelo aqui xd
+            //posiblemente haga la transicion entre los elementos del siguiente nivel al nivel actual para visualizarlos
             this.root.each(d => d.target = {
                 x0: Math.max(0, Math.min(1, (d.x0 - p.x0) / (p.x1 - p.x0))) * 2 * Math.PI,
                 x1: Math.max(0, Math.min(1, (d.x1 - p.x0) / (p.x1 - p.x0))) * 2 * Math.PI,
                 y0: Math.max(0, d.y0 - p.depth),
                 y1: Math.max(0, d.y1 - p.depth)
             });
+
             const t = this.g.transition().duration(750);
             // eslint-disable-next-line
             const self = this;
@@ -132,7 +129,7 @@ export default Vue.extend({
                 return t => d.current = i(t);
             }).filter(function(d) {
                 return +this.getAttribute("fill-opacity") || self.arcVisible(d.target);
-            }).attr("fill-opacity", d => self.arcVisible(d.target) ? (d.children ? 1 : 1) : 0)
+            }).attr("fill-opacity", d => self.arcVisible(d.target) ? 1 : 0)
                 .attrTween("d", d => () => self.arc(d.current));
 
             //animacion de las labels    
@@ -157,9 +154,10 @@ export default Vue.extend({
             .data(this.descendants)
             .join("path")
             .attr("fill", d => this.color(d.data.color)) //define color
-            .attr("fill-opacity", d => this.arcVisible(d.current) ? (d.children ? 1 : 1) : 0) //define visibilidad
+            .attr("fill-opacity", d => this.arcVisible(d.current) ? (d.children ? 1 : 1) : 0) //define visibilidad, si se muestra o no
             .attr("d", d => this.arc(d.current)); //dibuja el arco
-        this.path.filter(d => d.children).style("cursor", "pointer").on("click",this.clicked);
+
+        this.path.filter(d => d.children).style("cursor", "pointer").on("click",this.clicked); //clickeable si tiene hijos
 
         //agrega los titulos del hover
         this.path.append("title").text(d => `${d.data.name}\nTrade Value: ${format(d.data.value)}`);
@@ -174,26 +172,28 @@ export default Vue.extend({
             .data(this.descendants)
             .join("text")
             .attr("dy", "0.15em")
-            .attr("fill-opacity", d => +this.labelVisible(d.current)) //define visibilidad
-            .attr("transform", d => this.labelTransform(d.current))
+            .attr("fill-opacity", d => +this.labelVisible(d.current)) //define visibilidad, si se muestra o no
+            .attr("transform", d => this.labelTransform(d.current)) //coloca la label donde corresponde
             .text(d => d.data.name) //texto del label
-            .style("fill", d => d.data.color>=0.6?"white":"black")
-            .call(this.wrap,7*20);
+            .style("fill", d => d.data.color>=0.6?"white":"black") //color del texto
+            .call(this.wrap,7*20); //wrap del texto
 
+        //elemento padre
         this.parent = this.g
             .append("circle")
             .datum(this.root)
-            .attr("r", this.radius)
-            .attr("fill", d => this.color(d.data.color))
+            .attr("r", this.radius) //radio del circulo
+            .attr("fill", d => this.color(d.data.color)) //color
             .attr("pointer-events", "all")
             .on("click", this.clicked);
 
+        //label del elemento padre observado
         this.title = select("#svg").append("text")
             .attr("id","title")
-            .attr("x",(this.width/2))
-            .attr("y",(this.width/2))
+            .attr("x",(this.width/2)) //posicion en el centro
+            .attr("y",(this.width/2)) //posicion en el centro
             .attr("text-anchor","middle")
-            .style("fill", this.root.data.color>=0.6?"white":"black")
+            .style("fill", this.root.data.color>=0.6?"white":"black") //color
             .text(this.root.data.name);
 
         //Colorscale bar
@@ -201,6 +201,8 @@ export default Vue.extend({
         const legendHeight = vh*0.7;
         const legendWidth = 80;
         const margin = {top: 10, right: 60, bottom: 10, left: 2};
+
+        //barra de color
         const canvas = d3.select("#legend")
             .style("height", legendHeight + "px")
             .style("width", legendWidth + "px")
@@ -217,9 +219,14 @@ export default Vue.extend({
             .node();
 
         const ctx = canvas?.getContext("2d");
+
+        //escala de color continua
         const colorScale = d3.scaleSequential().domain([0,1]).interpolator(d3.interpolateYlOrRd);
+
+        //escala de la leyenda
         const legendScale = d3.scaleLinear().range([1,legendHeight - margin.top - margin.bottom]).domain(colorScale.domain());
 
+        //parte de la barra tambien
         const image = ctx?.createImageData(1, legendHeight - margin.top - margin.bottom);
         d3.range(legendHeight).forEach(function(i) {
             var c = d3.rgb(colorScale(legendScale.invert(i)));
@@ -230,6 +237,7 @@ export default Vue.extend({
         });
         ctx?.putImageData(image!, 0, 0);
 
+        //leyenda con escala indicada de 0.1 en 0.1 del 0 al 1.
         const legendAxis = d3.axisRight(legendScale).tickSize(6).ticks(10);
         const svg = d3.select("#legend")
             .append("svg")
