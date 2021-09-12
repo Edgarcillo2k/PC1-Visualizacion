@@ -15,7 +15,7 @@ from plotly.subplots import make_subplots
 import textwrap
 
 #Usar 20 para horizontal y 15 para vertical en width
-def customwrap(s,width=15):
+def customwrap(s,width=20):
     if(type(s) == str):
         return "<br>".join(textwrap.wrap(s,width=width))
     return ""
@@ -60,7 +60,7 @@ fig.add_trace(Icicle(
         size=20
     ),
     #Descomentar esta linea cuando se quiera usar en vertical
-    tiling = dict(orientation='v')
+    #tiling = dict(orientation='v')
 ))
 fig.update_layout(margin = dict(t=50, l=25, r=25, b=25), font_family="Roboto")
 plot(fig)

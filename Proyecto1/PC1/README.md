@@ -1,6 +1,6 @@
-# proyecto1-d3
+# PC1
 
-## Project setup
+## Project setup for sunburst chart in D3
 ```
 npm install
 ```
@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### For Icicle charts in D3 open Visual Studio Code and use Live Server, click on Go live button in the right down corner
+
+###For the display of Roboto font in Python, install it from dafont into your computer
