@@ -14624,7 +14624,7 @@
       .text(d => d.data.name);
 
   cell.append("title")
-      .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(d.value)}`);
+      .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\nTrade Value: ${format(d.data.value)}`);
 
   function clicked(event, p) {
     focus = focus === p ? p = p.parent : p;
