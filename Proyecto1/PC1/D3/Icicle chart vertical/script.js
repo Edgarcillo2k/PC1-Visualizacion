@@ -14553,7 +14553,7 @@
   format = d3.format(",d")
 
   
-  color =   d3.scaleOrdinal(data.children, d3.quantize(d3.interpolateYlOrRd, data.children.length))
+  color =  d3.scaleSequential().domain([0,1]).interpolator(d3.interpolateYlOrRd);
   
   
     partition = data => {
@@ -14587,7 +14587,7 @@
       .attr("fill", d => {
         if (!d.depth) return "#ccc";
         while (d.depth > 2) d = d.parent;
-        return color(d.data.name);
+        return color(d.data.color);
       })
       .style("cursor", "pointer")
       .on('mouseover', function (d, i) {
