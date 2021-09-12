@@ -1,0 +1,1185 @@
+element,parent,trade_value,color,dummy_value
+Exportations,,13022117476.0,1.0,1183.0
+Animal Hides,Exportations,10136310.0,0.002470983893318034,56.333333333333336
+"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",Animal Hides,6068489.0,1.0,18.77777777777778
+Saddlery,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",77954.0,0.013212898449297192,3.7555555555555555
+Trunks and Cases,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",5899841.0,1.0,3.7555555555555555
+Leather Apparel,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",76972.0,0.01304645328577499,3.7555555555555555
+Other Leather Articles,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",8720.0,0.001478005932702254,3.7555555555555555
+Articles of Gut,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",5002.0,0.0008478194581853986,3.7555555555555555
+Furskins and artificial fur; manufactures thereof,Animal Hides,63680.0,0.010493551195363458,18.77777777777778
+Furskin Apparel,Furskins and artificial fur; manufactures thereof,25777.0,0.6800780940822626,9.38888888888889
+Artificial Fur,Furskins and artificial fur; manufactures thereof,37903.0,1.0,9.38888888888889
+Raw hides and skins (other than furskins) and leather,Animal Hides,4004141.0,0.6598250404672399,18.77777777777778
+Equine and Bovine Hides,Raw hides and skins (other than furskins) and leather,24262.0,0.006584203556153796,2.0864197530864197
+Sheep Hides,Raw hides and skins (other than furskins) and leather,1298.0,0.0003522502768068431,2.0864197530864197
+Other Hides and Skins,Raw hides and skins (other than furskins) and leather,282041.0,0.07654007728881267,2.0864197530864197
+Tanned Equine and Bovine Hides,Raw hides and skins (other than furskins) and leather,3684880.0,1.0,2.0864197530864197
+Leather of Other Animals,Raw hides and skins (other than furskins) and leather,100.0,2.713792579405571e-05,2.0864197530864197
+Chamois Leather,Raw hides and skins (other than furskins) and leather,271.0,7.354377890189097e-05,2.0864197530864197
+Patent Leather,Raw hides and skins (other than furskins) and leather,19.0,5.156205900870584e-06,2.0864197530864197
+Leather Waste,Raw hides and skins (other than furskins) and leather,6314.0,0.0017134886346366774,2.0864197530864197
+Leather Sheets,Raw hides and skins (other than furskins) and leather,4956.0,0.001344955602353401,2.0864197530864197
+Animal Products,Exportations,383287338.0,0.09343605697840192,56.333333333333336
+Animal originated products; not elsewhere specified or included,Animal Products,9085057.0,0.056795927698143636,11.266666666666667
+Animal Organs,Animal originated products; not elsewhere specified or included,2457420.0,0.3844805307271354,3.755555555555556
+Pharmaceutical Animal Products,Animal originated products; not elsewhere specified or included,236104.00000000003,0.036940120625208385,3.755555555555556
+Other Inedible Animal Products,Animal originated products; not elsewhere specified or included,6391533.0,1.0,3.755555555555556
+Dairy products and other edible products of animal origin,Animal Products,159959655.0,1.0,11.266666666666667
+Milk,Dairy products and other edible products of animal origin,45278925.0,0.8991094613719962,1.251851851851852
+Concentrated Milk,Dairy products and other edible products of animal origin,50359747.0,1.0,1.251851851851852
+Fermented Milk Products,Dairy products and other edible products of animal origin,10361878.0,0.2057571496536708,1.251851851851852
+Whey,Dairy products and other edible products of animal origin,21079235.0,0.41857309171946394,1.251851851851852
+Butter,Dairy products and other edible products of animal origin,5542632.0,0.11006075943947852,1.251851851851852
+Cheese,Dairy products and other edible products of animal origin,14129313.0,0.2805675930024033,1.251851851851852
+Eggs,Dairy products and other edible products of animal origin,12732884.000000002,0.2528385220044891,1.251851851851852
+Processed Egg Products,Dairy products and other edible products of animal origin,447492.0,0.008885906436344885,1.251851851851852
+Honey,Dairy products and other edible products of animal origin,27549.0,0.000547044050876586,1.251851851851852
+"Fish and crustaceans, molluscs and other aquatic invertebrates",Animal Products,91436471.0,0.5716220818305716,11.266666666666667
+Live Fish,"Fish and crustaceans, molluscs and other aquatic invertebrates",244188.0,0.005648656559932346,1.6095238095238096
+Non-fillet Fresh Fish,"Fish and crustaceans, molluscs and other aquatic invertebrates",32822262.0,0.7592579715551877,1.6095238095238096
+Non-fillet Frozen Fish,"Fish and crustaceans, molluscs and other aquatic invertebrates",1723396.0,0.039866300230810545,1.6095238095238096
+Fish Fillets,"Fish and crustaceans, molluscs and other aquatic invertebrates",43229394.0,1.0,1.6095238095238096
+Processed Fish,"Fish and crustaceans, molluscs and other aquatic invertebrates",3524897.0,0.08153935722531756,1.6095238095238096
+Crustaceans,"Fish and crustaceans, molluscs and other aquatic invertebrates",9886501.0,0.22869857948968705,1.6095238095238096
+Molluscs,"Fish and crustaceans, molluscs and other aquatic invertebrates",5832.999999999999,0.00013493133861649782,1.6095238095238096
+Live animals,Animal Products,8114690.0,0.05072960428678094,11.266666666666667
+Horses,Live animals,222025.0,0.03570802487700614,1.877777777777778
+Bovine,Live animals,336202.0,0.05407098020357715,1.877777777777778
+Pigs,Live animals,554809.0,0.08922929207966175,1.877777777777778
+Sheep and Goats,Live animals,7113.0,0.001143975592614096,1.877777777777778
+Poultry,Live animals,6217790.0,1.0,1.877777777777778
+Other Animals,Live animals,776751.0,0.12492396816232133,1.877777777777778
+Meat and edible meat offal,Animal Products,114691465.0,0.717002452899764,11.266666666666667
+Bovine Meat,Meat and edible meat offal,11255139.0,0.12340836425357228,1.6095238095238096
+Frozen Bovine Meat,Meat and edible meat offal,91202400.0,1.0,1.6095238095238096
+Pig Meat,Meat and edible meat offal,1199202.0,0.013148798715823268,1.6095238095238096
+Edible Offal,Meat and edible meat offal,9909590.0,0.10865492574756805,1.6095238095238096
+Poultry Meat,Meat and edible meat offal,681053.0,0.0074674898906169134,1.6095238095238096
+Animal Fat,Meat and edible meat offal,117421.0,0.0012874770839363876,1.6095238095238096
+Preserved Meat,Meat and edible meat offal,326660.0,0.003581703990245871,1.6095238095238096
+Animal and Vegetable Bi-Products,Exportations,151569800.0,0.036949001610392315,56.333333333333336
+Animal or vegetable fats and oils and their cleavage products,Animal and Vegetable Bi-Products,151569800.0,1.0,56.333333333333336
+"Bovine, Sheep, and Goat Fat",Animal or vegetable fats and oils and their cleavage products,440404.0,0.003891783319985863,2.9649122807017547
+Fish Oil,Animal or vegetable fats and oils and their cleavage products,858173.0,0.0075835445796637365,2.9649122807017547
+Wool Grease,Animal or vegetable fats and oils and their cleavage products,25114.0,0.00022192860713827524,2.9649122807017547
+Other Animal Fats,Animal or vegetable fats and oils and their cleavage products,22814.0,0.00020160385614607834,2.9649122807017547
+Soybean Oil,Animal or vegetable fats and oils and their cleavage products,9317554.0,0.08233781082884706,2.9649122807017547
+Ground Nut Oil,Animal or vegetable fats and oils and their cleavage products,435.0,3.844028992002458e-06,2.9649122807017547
+Pure Olive Oil,Animal or vegetable fats and oils and their cleavage products,89111.0,0.0007874603850720254,2.9649122807017547
+Olive Oil,Animal or vegetable fats and oils and their cleavage products,18.000000000000004,1.590632686345845e-07,2.9649122807017547
+Palm Oil,Animal or vegetable fats and oils and their cleavage products,113162518.0,1.0,2.9649122807017547
+Seed Oils,Animal or vegetable fats and oils and their cleavage products,341841.0,0.003020797045184166,2.9649122807017547
+Coconut Oil,Animal or vegetable fats and oils and their cleavage products,16282956.0,0.14389001135517326,2.9649122807017547
+Rapeseed Oil,Animal or vegetable fats and oils and their cleavage products,1476.0,1.3043188028035926e-05,2.9649122807017547
+Other Pure Vegetable Oils,Animal or vegetable fats and oils and their cleavage products,187429.0,0.0016562816320506407,2.9649122807017547
+Other Vegetable Oils,Animal or vegetable fats and oils and their cleavage products,240021.0,0.0021210291556078664,2.9649122807017547
+Margarine,Animal or vegetable fats and oils and their cleavage products,9619740.0,0.08500818265638098,2.9649122807017547
+Inedible Fats and Oils,Animal or vegetable fats and oils and their cleavage products,89500.0,0.0007908979190441839,2.9649122807017547
+Stearic Acid,Animal or vegetable fats and oils and their cleavage products,759185.0,0.006708802644352612,2.9649122807017547
+Glycerol,Animal or vegetable fats and oils and their cleavage products,11825.0,0.00010449573064466452,2.9649122807017547
+Waxes,Animal or vegetable fats and oils and their cleavage products,119686.0,0.001057647020544382,2.9649122807017547
+Arts and Antiques,Exportations,655658.0,0.00015983334739418147,56.333333333333336
+Works of art; collectors' pieces and antiques,Arts and Antiques,655658.0,1.0,56.333333333333336
+Paintings,Works of art; collectors' pieces and antiques,374466.0,1.0,9.38888888888889
+Prints,Works of art; collectors' pieces and antiques,1478.0,0.00394695379553818,9.38888888888889
+Sculptures,Works of art; collectors' pieces and antiques,95959.0,0.25625557460490406,9.38888888888889
+Revenue Stamps,Works of art; collectors' pieces and antiques,100.0,0.00026704694151137885,9.38888888888889
+Collector's Items,Works of art; collectors' pieces and antiques,172266.0,0.4600310842639919,9.38888888888889
+Antiques,Works of art; collectors' pieces and antiques,11389.0,0.03041397616873094,9.38888888888889
+Chemical Products,Exportations,748461920.0,0.18245666806578437,56.333333333333336
+Albuminoidal substances; modified starches; glues; enzymes,Chemical Products,17907192.0,0.05479843232323109,5.121212121212121
+Casein,Albuminoidal substances; modified starches; glues; enzymes,4917.0,0.00032104531361661103,0.8535353535353535
+Water Soluble Proteins,Albuminoidal substances; modified starches; glues; enzymes,5.0,3.2646462641510176e-07,0.8535353535353535
+Peptones,Albuminoidal substances; modified starches; glues; enzymes,685458.0,0.04475555797864856,0.8535353535353535
+Dextrins,Albuminoidal substances; modified starches; glues; enzymes,131612.0,0.008593332482348873,0.8535353535353535
+Glues,Albuminoidal substances; modified starches; glues; enzymes,15315595.0,1.0,0.8535353535353535
+Enzymes,Albuminoidal substances; modified starches; glues; enzymes,1769605.0,0.11554268704545922,0.8535353535353535
+Chemical products n.e.s.,Chemical Products,117208133.0,0.3586727580702082,5.121212121212121
+Artificial Graphite,Chemical products n.e.s.,81.0,8.427236065390899e-07,0.24386724386724387
+Activated Carbon,Chemical products n.e.s.,110519.0,0.0011498391391493046,0.24386724386724387
+Wood Pulp Lyes,Chemical products n.e.s.,1128.0,1.1735706520692511e-05,0.24386724386724387
+Turpentine,Chemical products n.e.s.,2283.0,2.3752320910231384e-05,0.24386724386724387
+"Wood Tar, Oils and Pitch",Chemical products n.e.s.,30764.0,0.00032006850656257483,0.24386724386724387
+Pesticides,Chemical products n.e.s.,96116923.0,1.0,0.24386724386724387
+Dyeing Finishing Agents,Chemical products n.e.s.,229689.0,0.0023896832402760127,0.24386724386724387
+Metal Pickling Preparations,Chemical products n.e.s.,91319.0,0.000950082432414113,0.24386724386724387
+Antiknock,Chemical products n.e.s.,468638.0,0.004875707475571186,0.24386724386724387
+Prepared Rubber Accelerators,Chemical products n.e.s.,318105.0,0.00330956287479157,0.24386724386724387
+Fire Extinguishers Preparations,Chemical products n.e.s.,372.00000000000006,3.8702861929943395e-06,0.24386724386724387
+Organic Composite Solvents,Chemical products n.e.s.,2127595.0,0.022135488045117717,0.24386724386724387
+Reaction and Catalytic Products,Chemical products n.e.s.,342077.0,0.003558967446346571,0.24386724386724387
+Refractory Cements,Chemical products n.e.s.,469009.0,0.004879567357769037,0.24386724386724387
+Alkylbenzenes and Alkylnaphthalenes,Chemical products n.e.s.,50.0,5.20199757122895e-07,0.24386724386724387
+Disc Chemicals for Electronics,Chemical products n.e.s.,126941.0,0.0013206935473787482,0.24386724386724387
+Hydraulic Brake Fluid,Chemical products n.e.s.,57396.0,0.0005971477051965136,0.24386724386724387
+Antifreeze,Chemical products n.e.s.,169713.0,0.0017656932276119575,0.24386724386724387
+Micro-Organism Culture Preparations,Chemical products n.e.s.,89413.0,0.0009302524176725883,0.24386724386724387
+Laboratory Reagents,Chemical products n.e.s.,1795017.0,0.018675348148629353,0.24386724386724387
+"Industrial Fatty Acids, Oils and Alcohols",Chemical products n.e.s.,14661101.0,0.15253402358708465,0.24386724386724387
+"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",Chemical Products,44857266.0,0.1372693080582469,5.121212121212121
+Essential Oils,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",12396347.0,0.7976106708518392,0.7316017316017316
+Scented Mixtures,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",15541852.0,1.0,0.7316017316017316
+Perfumes,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",895469.0,0.05761662123664541,0.7316017316017316
+Beauty Products,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",6084103.0,0.3914657661133306,0.7316017316017316
+Hair Products,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",5200148.0,0.33458998322722416,0.7316017316017316
+Dental Products,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",318786.0,0.020511455134175773,0.7316017316017316
+Shaving Products,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",4420561.0,0.28442948755399294,0.7316017316017316
+Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Chemical Products,34526898.0,0.10565698314867583,5.121212121212121
+Prepared Explosives,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,29787557.0,1.0,1.707070707070707
+Detonating Fuses,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,4730831.0,0.1588190330613551,1.707070707070707
+Matches,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,8510.0,0.00028568975965367015,1.707070707070707
+Fertilizers,Chemical Products,35102757.0,0.1074191896654331,5.121212121212121
+Animal or Vegetable Fertilizers,Fertilizers,45968.0,0.0015562089939116302,1.0242424242424242
+Nitrogenous Fertilizers,Fertilizers,4402680.0,0.1490491257682487,1.0242424242424242
+Phosphatic Fertilizers,Fertilizers,13875.0,0.00046972676188922446,1.0242424242424242
+Potassic Fertilizers,Fertilizers,1101785.0,0.0373000288539185,1.0242424242424242
+Mixed Mineral or Chemical Fertilizers,Fertilizers,29538449.0,1.0,1.0242424242424242
+"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",Chemical Products,16807852.0,0.05143430306219335,5.121212121212121
+Halogens,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",15194.0,0.0014479617655756192,0.13841113841113842
+Carbon,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",81558.0,0.007772335505911303,0.13841113841113842
+Hydrogen,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",913985.0,0.08710118035472109,0.13841113841113842
+Alkaline Metals,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",154.0,1.4675932071781318e-05,0.13841113841113842
+Hydrochloric Acid,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",27414.0,0.002612506505297487,0.13841113841113842
+Sulfuric Acid,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",7756.0,0.0007391333061606228,0.13841113841113842
+Nitric Acids,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",6394.0,0.0006093370757595438,0.13841113841113842
+Phosphoric Acid,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",56425.0,0.0053772043321445515,0.13841113841113842
+Boron,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",17957.0,0.0017112708585258255,0.13841113841113842
+Other Inorganic Acids,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",10493371.0,1.0,0.13841113841113842
+Ammonia,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",12150.0,0.001157873861507422,0.13841113841113842
+Sodium or Potassium Peroxides,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",201812.0,0.019232332488768385,0.13841113841113842
+Zinc Oxide and Peroxide,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",216042.0,0.02058842673150506,0.13841113841113842
+Aluminium Oxide,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",700.0,6.670878214446054e-05,0.13841113841113842
+Iron Oxides and Hydroxides,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",280560.0,0.026736879883499782,0.13841113841113842
+Titanium Oxides,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",24497.0,0.0023345214802754995,0.13841113841113842
+Lead Oxides,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",12.0,1.1435791224764664e-06,0.13841113841113842
+Inorganic Salts,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",15936.0,0.0015186730746487474,0.13841113841113842
+Fluorides,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",14641.000000000002,0.0013952618276814955,0.13841113841113842
+Chlorides,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",220207.0,0.020985343985264603,0.13841113841113842
+Hypochlorites,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1437177.0,0.13696046770861336,0.13841113841113842
+Sulfides,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",495.0,4.7172638802154235e-05,0.13841113841113842
+Sulfites,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",251844.0,0.0240002950434136,0.13841113841113842
+Sulfates,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1004604.0,0.09573701339636233,0.13841113841113842
+Nitrites and Nitrates,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",339659.99999999994,0.032369007061696375,0.13841113841113842
+Phosphinates and Phosphonates,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",272960.0,0.026012613105931354,0.13841113841113842
+Carbonates,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",275005.0,0.026207498048053387,0.13841113841113842
+Silicates,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",547930.0,0.05221677571487752,0.13841113841113842
+Borates,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",3332.0,0.0003175338030076322,0.13841113841113842
+Oxometallic or Peroxometallic Acid Salts,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",7678.0,0.0007317000418645257,0.13841113841113842
+Other Inorganic Acids Salts,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",3938.0,0.0003752845486926937,0.13841113841113842
+Precious Metal Compounds,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",20.0,1.905965204127444e-06,0.13841113841113842
+Radioactive Chemicals,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",4000.0,0.00038119304082548876,0.13841113841113842
+Other Isotopes,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1.0,9.52982602063722e-08,0.13841113841113842
+Hydrogen peroxide,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",17864.0,0.0017024081203266329,0.13841113841113842
+Carbides,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",29805.0,0.0028403646454509233,0.13841113841113842
+Inorganic Compounds,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",4774.0,0.00045495389422522085,0.13841113841113842
+Organic chemicals,Chemical Products,9222373.0,0.028221710176564458,5.121212121212121
+Acyclic Hydrocarbons,Organic chemicals,339285.0,0.22410522380468628,0.13841113841113842
+Cyclic Hydrocarbons,Organic chemicals,499583.0,0.32998558740886447,0.13841113841113842
+Halogenated Hydrocarbons,Organic chemicals,21613.0,0.014275863071136903,0.13841113841113842
+"Sulfonated, Nitrated or Nitrosated Hydrocarbons",Organic chemicals,8804.0,0.005815236130027729,0.13841113841113842
+Acyclic Alcohols,Organic chemicals,165853.0,0.10954956359308143,0.13841113841113842
+Cyclic Alcohols,Organic chemicals,60829.99999999999,0.04017955631412843,0.13841113841113842
+Phenols,Organic chemicals,20834.0,0.013761316394025181,0.13841113841113842
+Ethers,Organic chemicals,308170.0,0.20355308021247673,0.13841113841113842
+Epoxides,Organic chemicals,6075.0,0.004012671455011183,0.13841113841113842
+Aldehydes,Organic chemicals,480530.0,0.317400660786259,0.13841113841113842
+Ketones and Quinones,Organic chemicals,178569.0,0.11794876198352129,0.13841113841113842
+Saturated Acyclic Monocarboxylic Acids,Organic chemicals,522256.0,0.34496160385322144,0.13841113841113842
+Unsaturated Acyclic Monocarboxylic Acids,Organic chemicals,463958.0,0.30645448937021863,0.13841113841113842
+Polycarboxylic Acids,Organic chemicals,152962.0,0.10103477384385523,0.13841113841113842
+Carboxylic Acids,Organic chemicals,446275.0,0.2947744779563976,0.13841113841113842
+Amine Compounds,Organic chemicals,121816.0,0.08046215406808925,0.13841113841113842
+Oxygen Amino Compounds,Organic chemicals,164278.0,0.10850924136400446,0.13841113841113842
+Quaternary Ammonium Salts and Hydroxides,Organic chemicals,1513954.0,1.0,0.13841113841113842
+Carboxyamide Compounds,Organic chemicals,152958.0,0.1010321317556544,0.13841113841113842
+Carboxyimide Compounds,Organic chemicals,27268.0,0.018011115265060895,0.13841113841113842
+Nitrile Compounds,Organic chemicals,119472.0,0.07891389038240264,0.13841113841113842
+"Diazo, Azo or Aoxy Compounds",Organic chemicals,243.0,0.0001605068582004473,0.13841113841113842
+Hydrazine or Hydroxylamine Derivatives,Organic chemicals,9743.0,0.006435466335172667,0.13841113841113842
+Other Nitrogen Compounds,Organic chemicals,70235.0,0.04639176619633093,0.13841113841113842
+Organo-Sulfur Compounds,Organic chemicals,404137.0,0.2669413998047497,0.13841113841113842
+Other Organo-Inorganic Compounds,Organic chemicals,43100.0,0.02846850036394765,0.13841113841113842
+Oxygen Heterocyclic Compounds,Organic chemicals,136818.0,0.0903713058653037,0.13841113841113842
+Nitrogen Heterocyclic Compounds,Organic chemicals,1178600.0,0.7784912883746798,0.13841113841113842
+Nucleic Acids,Organic chemicals,483119.0,0.3191107523742465,0.13841113841113842
+Sulfonamides,Organic chemicals,36262.0,0.023951850584628065,0.13841113841113842
+Vitamins,Organic chemicals,479469.0,0.31669984689098873,0.13841113841113842
+Hormones,Organic chemicals,31783.0,0.020993372321748218,0.13841113841113842
+Glycosides,Organic chemicals,3.0,1.9815661506228064e-06,0.13841113841113842
+Vegetable Alkaloids,Organic chemicals,157.0,0.00010370196188259353,0.13841113841113842
+Chemically Pure Sugars,Organic chemicals,3698.0,0.0024426105416677124,0.13841113841113842
+Antibiotics,Organic chemicals,500043.00000000006,0.33028942755196,0.13841113841113842
+Other Organic Compounds,Organic chemicals,69620.0,0.045985545135453255,0.13841113841113842
+Pharmaceutical products,Chemical Products,326782925.0,1.0,5.121212121212121
+Glands and Other Organs,Pharmaceutical products,5137040.0,0.030616369712939948,0.8535353535353535
+"Blood, antisera, vaccines, toxins and cultures",Pharmaceutical products,143603139.0,0.8558638429061688,0.8535353535353535
+Unpackaged Medicaments,Pharmaceutical products,881808.0,0.005255508959211559,0.8535353535353535
+Packaged Medicaments,Pharmaceutical products,167787365.0,1.0,0.8535353535353535
+Bandages,Pharmaceutical products,1084137.0,0.006461374490266296,0.8535353535353535
+Special Pharmaceuticals,Pharmaceutical products,8289436.0,0.04940441135123613,0.8535353535353535
+Photographic or cinematographic goods,Chemical Products,762477.0,0.0023332828666002055,5.121212121212121
+Photographic Plates,Photographic or cinematographic goods,582045.0,1.0,0.8535353535353535
+Photographic Film,Photographic or cinematographic goods,1471.0,0.002527295999450214,0.8535353535353535
+Photographic Paper,Photographic or cinematographic goods,4975.0,0.008547449080397564,0.8535353535353535
+Developed Exposed Photographic Material,Photographic or cinematographic goods,38080.0,0.06542449466965612,0.8535353535353535
+"Motion-picture film, exposed and developed",Photographic or cinematographic goods,505.0,0.0008676305096684964,0.8535353535353535
+Photographic Chemicals,Photographic or cinematographic goods,135401.0,0.23262977948440414,0.8535353535353535
+"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes"" and dental preparations with a basis of plaster""",Chemical Products,48331222.0,0.1479000838247592,5.121212121212121
+Soap,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes"" and dental preparations with a basis of plaster""",5691082.0,0.17317159929320472,0.7316017316017316
+Cleaning Products,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes"" and dental preparations with a basis of plaster""",32863830.0,1.0,0.7316017316017316
+Lubricating Products,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes"" and dental preparations with a basis of plaster""",2312624.0,0.07036988689388912,0.7316017316017316
+Waxes,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes"" and dental preparations with a basis of plaster""",451137.0,0.0137274626846597,0.7316017316017316
+Polishes and Creams,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes"" and dental preparations with a basis of plaster""",6925303.0,0.21072720373736112,0.7316017316017316
+Candles,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes"" and dental preparations with a basis of plaster""",34094.0,0.0010374323382271633,0.7316017316017316
+Pastes and Waxes,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes"" and dental preparations with a basis of plaster""",53152.0,0.0016173404012861557,0.7316017316017316
+"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",Chemical Products,96952825.0,0.29668877282985334,5.121212121212121
+Vegetable Tanning Extracts,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",55.99999999999999,1.450439091944318e-06,0.3414141414141414
+Synthetic Tanning Extracts,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",14415.0,0.00037335856268530976,0.3414141414141414
+Vegetable or Animal Dyes,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",232821.0,0.006030226425456573,0.3414141414141414
+Synthetic Coloring Matter,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1565881.0,0.040557410995229665,0.3414141414141414
+Lake Pigments,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",153120.0,0.003965914888544893,0.3414141414141414
+Other Coloring Matter,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",906661.0,0.02348315281323799,0.3414141414141414
+Prepared Pigments,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",854152.0,0.022123133058257558,0.3414141414141414
+Nonaqueous Paints,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",38608998.0,1.0,0.3414141414141414
+Aqueous Paints,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",20854640.0,0.540149734007601,0.3414141414141414
+Other Paints,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",247270.0,0.006404465611876278,0.3414141414141414
+Prepared Paint Driers,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",97139.0,0.002515967909863913,0.3414141414141414
+Nonaqueous Pigments,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",3649577.0,0.09452659196180124,0.3414141414141414
+Artistry Paints,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",189852.0,0.004917299330068084,0.3414141414141414
+Glaziers Putty,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",12150342.0,0.31470233959451627,0.3414141414141414
+Ink,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",17427901.0,0.4513948018024192,0.3414141414141414
+Foodstuffs,Exportations,1391299342.0,0.3391646728312353,56.333333333333336
+"Beverages, spirits and vinegar",Foodstuffs,84692510.0,0.1434732198967962,6.2592592592592595
+Water,"Beverages, spirits and vinegar",677736.0,0.01620566040320994,0.6954732510288066
+Flavored Water,"Beverages, spirits and vinegar",41820943.0,1.0,0.6954732510288066
+Beer,"Beverages, spirits and vinegar",4164288.0,0.09957422528707686,0.6954732510288066
+Wine,"Beverages, spirits and vinegar",8386.0,0.00020052154251997618,0.6954732510288066
+Vermouth,"Beverages, spirits and vinegar",182.0,4.351886565542054e-06,0.6954732510288066
+Other Fermented Beverages,"Beverages, spirits and vinegar",4605.0,0.00011011229469407229,0.6954732510288066
+Alcohol > 80% ABV,"Beverages, spirits and vinegar",18032109.0,0.43117413684335143,0.6954732510288066
+Hard Liquor,"Beverages, spirits and vinegar",19780742.0,0.4729865130013926,0.6954732510288066
+Vinegar,"Beverages, spirits and vinegar",203519.0,0.004866437373255787,0.6954732510288066
+Cocoa and cocoa preparations,Foodstuffs,11411184.0,0.019331099188284802,6.2592592592592595
+Cocoa Beans,Cocoa and cocoa preparations,1727000.0,0.18160240409195327,1.251851851851852
+Cocoa Paste,Cocoa and cocoa preparations,2553.0,0.00026846029973755453,1.251851851851852
+Cocoa Butter,Cocoa and cocoa preparations,49798.00000000001,0.005236500590023793,1.251851851851852
+Cocoa Powder,Cocoa and cocoa preparations,122047.0,0.012833832433242978,1.251851851851852
+Chocolate,Cocoa and cocoa preparations,9509786.0,1.0,1.251851851851852
+"Food industries, residues and wastes thereof; prepared animal fodder",Foodstuffs,50094466.0,0.08486245520448715,6.2592592592592595
+Animal Meal and Pellets,"Food industries, residues and wastes thereof; prepared animal fodder",4863350.0,0.11312781623037745,0.8941798941798942
+Bran,"Food industries, residues and wastes thereof; prepared animal fodder",61727.0,0.0014358499208266952,0.8941798941798942
+Starch Residue,"Food industries, residues and wastes thereof; prepared animal fodder",71260.0,0.0016575998405577836,0.8941798941798942
+Soybean Meal,"Food industries, residues and wastes thereof; prepared animal fodder",967847.0,0.022513374023075065,0.8941798941798942
+Other Vegetable Residues,"Food industries, residues and wastes thereof; prepared animal fodder",144663.0,0.003365048635063298,0.8941798941798942
+Other Vegetable Residues and Waste,"Food industries, residues and wastes thereof; prepared animal fodder",995750.0,0.023162433921350166,0.8941798941798942
+Animal Food,"Food industries, residues and wastes thereof; prepared animal fodder",42989869.0,1.0,0.8941798941798942
+"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",Foodstuffs,49913862.0,0.08455650326840401,6.2592592592592595
+Sausages,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",12241793.0,0.4238668787583461,1.5648148148148149
+Other Prepared Meat,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",8464777.0,0.2930893053309623,1.5648148148148149
+Processed Fish,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",28881221.0,1.0,1.5648148148148149
+Processed Crustaceans,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",326071.0,0.011290069765402231,1.5648148148148149
+Miscellaneous edible preparations,Foodstuffs,590301870.0,1.0,6.2592592592592595
+Coffee and Tea Extracts,Miscellaneous edible preparations,1849512.0,0.003988186402211106,1.0432098765432098
+Yeast,Miscellaneous edible preparations,682178.0,0.0014710112848619354,1.0432098765432098
+Sauces and Seasonings,Miscellaneous edible preparations,110227334.0,0.23768818726819935,1.0432098765432098
+Soups and Broths,Miscellaneous edible preparations,208341.0,0.00044925512417495213,1.0432098765432098
+Ice Cream,Miscellaneous edible preparations,13586873.0,0.029297988954475135,1.0432098765432098
+Other Edible Preparations,Miscellaneous edible preparations,463747632.0,1.0,1.0432098765432098
+"Preparations of cereals, flour, starch or milk; pastrycooks' products",Foodstuffs,131430002.0,0.22264879831737616,6.2592592592592595
+Malt Extract,"Preparations of cereals, flour, starch or milk; pastrycooks' products",14711420.0,0.1670200239155038,1.251851851851852
+Pasta,"Preparations of cereals, flour, starch or milk; pastrycooks' products",20299926.0,0.23046681598397417,1.251851851851852
+Tapioca,"Preparations of cereals, flour, starch or milk; pastrycooks' products",7701.0,8.74301191980988e-05,1.251851851851852
+Prepared Cereals,"Preparations of cereals, flour, starch or milk; pastrycooks' products",8329181.0,0.09456191243378,1.251851851851852
+Baked Goods,"Preparations of cereals, flour, starch or milk; pastrycooks' products",88081774.0,1.0,1.251851851851852
+"Preparations of vegetables, fruit, nuts or other parts of plants",Foodstuffs,372566399.0,0.6311455510042684,6.2592592592592595
+Pickled Foods,"Preparations of vegetables, fruit, nuts or other parts of plants",1583567.0,0.009368691838141626,0.6954732510288066
+Processed Tomatoes,"Preparations of vegetables, fruit, nuts or other parts of plants",6036717.0,0.03571439748812068,0.6954732510288066
+Processed Mushrooms,"Preparations of vegetables, fruit, nuts or other parts of plants",584255.0,0.00345656675713338,0.6954732510288066
+Other Frozen Vegetables,"Preparations of vegetables, fruit, nuts or other parts of plants",1573789.0,0.009310843279291037,0.6954732510288066
+Other Processed Vegetables,"Preparations of vegetables, fruit, nuts or other parts of plants",6781542.0,0.04012092774439897,0.6954732510288066
+Sugar Preserved Foods,"Preparations of vegetables, fruit, nuts or other parts of plants",1739052.0,0.010288571483558238,0.6954732510288066
+Jams,"Preparations of vegetables, fruit, nuts or other parts of plants",29203004.0,0.17277067861607198,0.6954732510288066
+Other Processed Fruits and Nuts,"Preparations of vegetables, fruit, nuts or other parts of plants",169027547.0,1.0,0.6954732510288066
+Fruit Juice,"Preparations of vegetables, fruit, nuts or other parts of plants",156036926.0,0.923144947491902,0.6954732510288066
+Sugars and sugar confectionery,Foodstuffs,95782652.0,0.16226045836514122,6.2592592592592595
+Raw Sugar,Sugars and sugar confectionery,78288385.0,1.0,1.5648148148148149
+Other Sugars,Sugars and sugar confectionery,974797.0,0.012451361718599764,1.5648148148148149
+Molasses,Sugars and sugar confectionery,1292.0,1.6503086632838318e-05,1.5648148148148149
+Confectionery Sugar,Sugars and sugar confectionery,16518178.0,0.21099142612278948,1.5648148148148149
+Tobacco and manufactured tobacco substitutes,Foodstuffs,5106397.0,0.008650484200566737,6.2592592592592595
+Raw Tobacco,Tobacco and manufactured tobacco substitutes,653692.0,0.14717678068184864,2.0864197530864197
+Rolled Tobacco,Tobacco and manufactured tobacco substitutes,4441543.0,1.0,2.0864197530864197
+Processed Tobacco,Tobacco and manufactured tobacco substitutes,11162.0,0.0025130906083764134,2.0864197530864197
+Footwear and Headwear,Exportations,3173954.0,0.0007737321778963298,56.333333333333336
+"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",Footwear and Headwear,28239.0,0.012789575945325343,14.083333333333334
+Artificial Vegetation,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",22048.0,1.0,4.694444444444445
+Processed Hair,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",2087.0,0.09465711175616837,4.694444444444445
+Fake Hair,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",4104.0,0.18613933236574745,4.694444444444445
+Footwear; gaiters and the like; parts of such articles,Footwear and Headwear,2207970.0,1.0,14.083333333333334
+Waterproof Footwear,Footwear; gaiters and the like; parts of such articles,119110.0,0.0869592515853582,2.3472222222222223
+Rubber Footwear,Footwear; gaiters and the like; parts of such articles,472453.0,0.3449261967026886,2.3472222222222223
+Leather Footwear,Footwear; gaiters and the like; parts of such articles,1369722.0,1.0,2.3472222222222223
+Textile Footwear,Footwear; gaiters and the like; parts of such articles,133920.0,0.09777166461515549,2.3472222222222223
+Other Footwear,Footwear; gaiters and the like; parts of such articles,32986.0,0.024082259027744315,2.3472222222222223
+Footwear Parts,Footwear; gaiters and the like; parts of such articles,79779.0,0.058244665705887766,2.3472222222222223
+Headgear and parts thereof,Footwear and Headwear,831249.0,0.3764765825622631,14.083333333333334
+Hat Forms,Headgear and parts thereof,2.0,4.003106410574606e-06,2.3472222222222223
+Hat Shapes,Headgear and parts thereof,5.0,1.0007766026436515e-05,2.3472222222222223
+Hats,Headgear and parts thereof,2639.0,0.005282098908753192,2.3472222222222223
+Knitted Hats,Headgear and parts thereof,499612.0,1.0,2.3472222222222223
+Other Headwear,Headgear and parts thereof,306768.0,0.6140124736795753,2.3472222222222223
+Headbands and Linings,Headgear and parts thereof,22223.0,0.04448051688109973,2.3472222222222223
+"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",Footwear and Headwear,106496.0,0.04823253939138666,14.083333333333334
+Umbrellas,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",91661.0,1.0,4.694444444444445
+Walking Sticks,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",7895.0,0.08613259728783233,4.694444444444445
+Umbrella and Walking Stick Accessories,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",6940.0,0.07571377139677725,4.694444444444445
+Instruments,Exportations,4102135197.0,1.0,56.333333333333336
+Clocks and watches,Instruments,671716.0,0.0001637788573883686,18.77777777777778
+Precious Metal Watches,Clocks and watches,52910.0,0.11556413689468614,1.4444444444444444
+Base Metal Watches,Clocks and watches,457841.0,1.0,1.4444444444444444
+Clocks with Watch Movements,Clocks and watches,826.0,0.0018041197708374742,1.4444444444444444
+Dashboard Clocks,Clocks and watches,3403.0,0.007432711356125817,1.4444444444444444
+Other Clocks,Clocks and watches,35994.0,0.07861681238683298,1.4444444444444444
+Time Recording Instruments,Clocks and watches,15658.0,0.034199645728538945,1.4444444444444444
+Time Switches,Clocks and watches,81623.0,0.17827804849281736,1.4444444444444444
+Watch Movements,Clocks and watches,5229.0,0.01142099549843723,1.4444444444444444
+Clock Movements,Clocks and watches,8.0,1.7473314971791518e-05,1.4444444444444444
+Incomplete Movement Sets,Clocks and watches,2390.0,0.005220152847822716,1.4444444444444444
+Watch Cases and Parts,Clocks and watches,414.0,0.000904244049790211,1.4444444444444444
+Watch Straps,Clocks and watches,2090.0,0.004564903536380534,1.4444444444444444
+Other Clocks and Watches,Clocks and watches,13330.0,0.029114911071747615,1.4444444444444444
+Instruments and apparatus,Instruments,4101359667.0,1.0,18.77777777777778
+Optical Fibers,Instruments and apparatus,131837082.0,0.04376453255559647,0.5690235690235691
+Mirrors and Lenses,Instruments and apparatus,247415.0,8.213168600199224e-05,0.5690235690235691
+Eyewear Frames,Instruments and apparatus,279885.0,9.291040129607176e-05,0.5690235690235691
+Eyewear,Instruments and apparatus,236985.0,7.866935152348132e-05,0.5690235690235691
+Binoculars and Telescopes,Instruments and apparatus,40470.0,1.3434388911345818e-05,0.5690235690235691
+Cameras,Instruments and apparatus,832227.0,0.00027626541093458355,0.5690235690235691
+Video Cameras,Instruments and apparatus,9887652.0,0.0032822970691387767,0.5690235690235691
+Image Projectors,Instruments and apparatus,706896.0,0.00023466063216888346,0.5690235690235691
+Photocopiers,Instruments and apparatus,1999335.0,0.0006636976514471359,0.5690235690235691
+Photo Lab Equipment,Instruments and apparatus,904305.0,0.00030019236630774847,0.5690235690235691
+Microscopes,Instruments and apparatus,334866.0,0.00011116185018993647,0.5690235690235691
+Non-optical Microscopes,Instruments and apparatus,3353.0,1.1130592048367316e-06,0.5690235690235691
+LCDs,Instruments and apparatus,203915.0,6.769146070810681e-05,0.5690235690235691
+Compasses,Instruments and apparatus,33153.0,1.1005443429153643e-05,0.5690235690235691
+Surveying Equipment,Instruments and apparatus,1300984.0,0.000431873610660695,0.5690235690235691
+Balances,Instruments and apparatus,35516.0,1.1789863023853672e-05,0.5690235690235691
+Drafting Tools,Instruments and apparatus,284384.0,9.44038857465819e-05,0.5690235690235691
+Medical Instruments,Instruments and apparatus,3012418374.0,1.0,0.5690235690235691
+Therapeutic Appliances,Instruments and apparatus,55392206.0,0.0183879525095474,0.5690235690235691
+Breathing Appliances,Instruments and apparatus,26492.0,8.794263183577302e-06,0.5690235690235691
+Orthopedic Appliances,Instruments and apparatus,816882369.0,0.27117161947041024,0.5690235690235691
+X-Ray Equipment,Instruments and apparatus,1275180.0,0.00042330773540820264,0.5690235690235691
+Instructional Models,Instruments and apparatus,1867046.0,0.0006197831005528185,0.5690235690235691
+Tensile Testing Machines,Instruments and apparatus,1575619.0,0.0005230412261454358,0.5690235690235691
+Hydrometers,Instruments and apparatus,3332308.0,0.0011061903050256724,0.5690235690235691
+Gas and Liquid Flow Measuring Instruments,Instruments and apparatus,5965128.0,0.00198017913165205,0.5690235690235691
+Chemical Analysis Instruments,Instruments and apparatus,1293502.0,0.0004293898919101467,0.5690235690235691
+Utility Meters,Instruments and apparatus,214798.0,7.130417270519543e-05,0.5690235690235691
+Revolution Counters,Instruments and apparatus,1002838.0,0.0003329013023740108,0.5690235690235691
+Oscilloscopes,Instruments and apparatus,15208780.0,0.005048694474600891,0.5690235690235691
+Other Measuring Instruments,Instruments and apparatus,15885024.0,0.005273179893305218,0.5690235690235691
+Thermostats,Instruments and apparatus,11920445.0,0.003957101411571725,0.5690235690235691
+Opto-Electric Instrument Parts,Instruments and apparatus,7931135.0,0.0026328132468096547,0.5690235690235691
+Musical instruments,Instruments,103814.0,2.531209365403846e-05,18.77777777777778
+Pianos,Musical instruments,11392.0,0.4635039466189275,2.682539682539683
+String Instruments,Musical instruments,21986.0,0.8945398323704126,2.682539682539683
+Wind Instruments,Musical instruments,2776.0,0.11294653755391,2.682539682539683
+Percussion,Musical instruments,24578.0,1.0,2.682539682539683
+Electric Musical Instruments,Musical instruments,17781.0,0.7234518675238018,2.682539682539683
+Other Musical Instruments,Musical instruments,3277.0,0.13333062088046221,2.682539682539683
+Musical Instrument Parts,Musical instruments,22024.0,0.8960859305069574,2.682539682539683
+Machines,Exportations,1009385680.0,0.24606348438690914,56.333333333333336
+Electrical machinery and equipment,Machines,846931658.0,1.0,28.166666666666668
+Electric Motors,Electrical machinery and equipment,7071900.0,0.03724658991113181,0.5868055555555556
+Electric Generating Sets,Electrical machinery and equipment,306357.0,0.001613534346555326,0.5868055555555556
+Electric Motor Parts,Electrical machinery and equipment,2864148.0,0.015085019019045569,0.5868055555555556
+Electrical Transformers,Electrical machinery and equipment,14116783.0,0.07435088551385584,0.5868055555555556
+Electromagnets,Electrical machinery and equipment,825125.0,0.004345804168670745,0.5868055555555556
+Batteries,Electrical machinery and equipment,11525760.0,0.060704373101164694,0.5868055555555556
+Electric Batteries,Electrical machinery and equipment,4300886.0,0.022652093086232564,0.5868055555555556
+Vacuum Cleaners,Electrical machinery and equipment,1287531.0,0.006781224162512119,0.5868055555555556
+Other Domestic Electric Housewares,Electrical machinery and equipment,220696.0,0.0011623712732118875,0.5868055555555556
+Hair Trimmers,Electrical machinery and equipment,5692.0,2.997887268968202e-05,0.5868055555555556
+Electrical Ignitions,Electrical machinery and equipment,829298.0,0.004367782706220647,0.5868055555555556
+Electrical Lighting and Signalling Equipment,Electrical machinery and equipment,30073476.0,0.1583922888861925,0.5868055555555556
+Portable Lighting,Electrical machinery and equipment,21400.0,0.00011271044897385721,0.5868055555555556
+Electric Furnaces,Electrical machinery and equipment,471409.0,0.0024828373850615446,0.5868055555555556
+Electric Soldering Equipment,Electrical machinery and equipment,4811958.0,0.025343829281464673,0.5868055555555556
+Electric Heaters,Electrical machinery and equipment,1036085.0,0.005456897454442937,0.5868055555555556
+Telephones,Electrical machinery and equipment,6847855.0,0.03606657997933986,0.5868055555555556
+Microphones and Headphones,Electrical machinery and equipment,1703430.0,0.008971699069884934,0.5868055555555556
+Sound Recording Equipment,Electrical machinery and equipment,23640.0,0.00012450817821224225,0.5868055555555556
+Dictation Machines,Electrical machinery and equipment,11301.000000000002,5.95205973763346e-05,0.5868055555555556
+Video Recording Equipment,Electrical machinery and equipment,532952.0,0.002806974729042764,0.5868055555555556
+Audio and Video Recording Accessories,Electrical machinery and equipment,4304.0,2.2668494036611283e-05,0.5868055555555556
+Blank Audio Media,Electrical machinery and equipment,2644138.0,0.013926260800412937,0.5868055555555556
+Sound Recordings,Electrical machinery and equipment,16372.0,8.622876030841075e-05,0.5868055555555556
+Broadcasting Equipment,Electrical machinery and equipment,9021391.0,0.04751425373732312,0.5868055555555556
+Navigation Equipment,Electrical machinery and equipment,312777.0,0.001647347481247483,0.5868055555555556
+Radio Receivers,Electrical machinery and equipment,120584.0,0.0006350970457506354,0.5868055555555556
+Video Displays,Electrical machinery and equipment,3633098.0,0.019134958259159937,0.5868055555555556
+Broadcasting Accessories,Electrical machinery and equipment,5761306.0,0.030343896539055018,0.5868055555555556
+Traffic Signals,Electrical machinery and equipment,10110.0,5.324778687503254e-05,0.5868055555555556
+Audio Alarms,Electrical machinery and equipment,1121168.0,0.0059050162922954,0.5868055555555556
+Electrical Capacitors,Electrical machinery and equipment,1147077.0,0.006041474938204916,0.5868055555555556
+Electrical Resistors,Electrical machinery and equipment,44394674.0,0.23381979619570212,0.5868055555555556
+Printed Circuit Boards,Electrical machinery and equipment,13986759.999999998,0.07366607473315827,0.5868055555555556
+High-voltage Protection Equipment,Electrical machinery and equipment,401750.0,0.0021159543399648195,0.5868055555555556
+Low-voltage Protection Equipment,Electrical machinery and equipment,186426436.0,0.9818788458951428,0.5868055555555556
+Electrical Control Boards,Electrical machinery and equipment,12338384.0,0.06498433646036711,0.5868055555555556
+Electrical Power Accessories,Electrical machinery and equipment,10602837.0,0.055843482180683426,0.5868055555555556
+Electric Filament,Electrical machinery and equipment,373984.0,0.0019697151658429448,0.5868055555555556
+Cathode Tubes,Electrical machinery and equipment,52614.0,0.00027710969917338894,0.5868055555555556
+Semiconductor Devices,Electrical machinery and equipment,168168393.0,0.885716592441218,0.5868055555555556
+Integrated Circuits,Electrical machinery and equipment,56461102.0,0.2973717829896611,0.5868055555555556
+Other Electrical Machinery,Electrical machinery and equipment,5886125.0,0.031001298666646977,0.5868055555555556
+Insulated Wire,Electrical machinery and equipment,189867046.0,1.0,0.5868055555555556
+Carbon-based Electronics,Electrical machinery and equipment,58795.0,0.0003096640582905577,0.5868055555555556
+Electrical Insulators,Electrical machinery and equipment,26948.0,0.0001419308962125002,0.5868055555555556
+Metal Insulating Fittings,Electrical machinery and equipment,42685.0,0.0002248152109555652,0.5868055555555556
+Electrical Parts,Electrical machinery and equipment,45163118.0,0.23786707041305102,0.5868055555555556
+Machinery and appliances,Machines,162454022.0,0.19181479457696693,28.166666666666668
+Steam Boilers,Machinery and appliances,480823.0,0.011833993163390094,0.3434959349593496
+Central Heating Boilers,Machinery and appliances,941.0,2.315984794144639e-05,0.3434959349593496
+Boiler Plants,Machinery and appliances,2953.0,7.26790977376102e-05,0.3434959349593496
+Water and Gas Generators,Machinery and appliances,361231.0,0.008890600458806186,0.3434959349593496
+Steam Turbines,Machinery and appliances,47999.0,0.001181349140639198,0.3434959349593496
+Spark-Ignition Engines,Machinery and appliances,1570832.0,0.038661243636087264,0.3434959349593496
+Combustion Engines,Machinery and appliances,299313.0,0.007366677541868378,0.3434959349593496
+Engine Parts,Machinery and appliances,1361786.0,0.03351621327182839,0.3434959349593496
+Hydraulic Turbines,Machinery and appliances,332.0,8.171168455430608e-06,0.3434959349593496
+Gas Turbines,Machinery and appliances,10008602.0,0.24633124381132437,0.3434959349593496
+Other Engines,Machinery and appliances,2579120.0,0.06347718068304274,0.3434959349593496
+Liquid Pumps,Machinery and appliances,8166985.0,0.20100545243365947,0.3434959349593496
+Air Pumps,Machinery and appliances,2230963.0,0.054908356900098904,0.3434959349593496
+Air Conditioners,Machinery and appliances,520926.0,0.012821006321727845,0.3434959349593496
+Liquid Fuel Furnaces,Machinery and appliances,8895.0,0.00021892332352727487,0.3434959349593496
+Industrial Furnaces,Machinery and appliances,499387.0,0.012290889462205195,0.3434959349593496
+Refrigerators,Machinery and appliances,2355616.0,0.05797631069972177,0.3434959349593496
+Other Heating Machinery,Machinery and appliances,3031192.0,0.07460355558058318,0.3434959349593496
+Rolling Machines,Machinery and appliances,85310.0,0.00209964572570116,0.3434959349593496
+Centrifuges,Machinery and appliances,5109274.0,0.1257492124667222,0.3434959349593496
+Washing and Bottling Machines,Machinery and appliances,2190347.0,0.05390871780978032,0.3434959349593496
+Scales,Machinery and appliances,484095.0,0.011914523474191807,0.3434959349593496
+Liquid Dispersing Machines,Machinery and appliances,3478378.0,0.08560967647489098,0.3434959349593496
+Pulley Systems,Machinery and appliances,498723.0,0.012274547125294334,0.3434959349593496
+Cranes,Machinery and appliances,1978009.0,0.04868266489565615,0.3434959349593496
+Fork-Lifts,Machinery and appliances,1627490.0,0.04005570767930349,0.3434959349593496
+Lifting Machinery,Machinery and appliances,2898350.0,0.07133405449637742,0.3434959349593496
+Large Construction Vehicles,Machinery and appliances,3877188.0,0.09542516952221111,0.3434959349593496
+Other Construction Vehicles,Machinery and appliances,1839984.0,0.04528560005812359,0.3434959349593496
+Excavation Machinery,Machinery and appliances,2743998.0,0.06753515029929119,0.3434959349593496
+Soil Preparation Machinery,Machinery and appliances,2504365.0,0.061637314123146006,0.3434959349593496
+Harvesting Machinery,Machinery and appliances,1185928.0,0.029188004409674426,0.3434959349593496
+Dairy Machinery,Machinery and appliances,40287.0,0.0009915417577226894,0.3434959349593496
+Fruit Pressing Machinery,Machinery and appliances,4889.0,0.0001203278390921694,0.3434959349593496
+Other Agricultural Machinery,Machinery and appliances,402446.0,0.009904982109078996,0.3434959349593496
+Mill Machinery,Machinery and appliances,3215148.0,0.07913107203958075,0.3434959349593496
+Industrial Food Preperation Machinery,Machinery and appliances,2776131.0,0.06832600619079225,0.3434959349593496
+Papermaking Machines,Machinery and appliances,109313.0,0.0026904064378568855,0.3434959349593496
+Book-binding Machines,Machinery and appliances,28281.0,0.0006960506478555211,0.3434959349593496
+Other Paper Machinery,Machinery and appliances,1344924.0,0.03310120651732396,0.3434959349593496
+Print Production Machinery,Machinery and appliances,1286716.0,0.03166859394668027,0.3434959349593496
+Industrial Printers,Machinery and appliances,4815601.0,0.1185213463407834,0.3434959349593496
+Artificial Textile Machinery,Machinery and appliances,50000.0,0.0012305976589503927,0.3434959349593496
+Textile Fiber Machinery,Machinery and appliances,104022.0,0.002560184593586755,0.3434959349593496
+Knitting Machines,Machinery and appliances,18462.0,0.000454385879590843,0.3434959349593496
+Knitting Machine Accessories,Machinery and appliances,102481.0,0.002522257573737904,0.3434959349593496
+Felt Machinery,Machinery and appliances,18462.0,0.000454385879590843,0.3434959349593496
+Household Washing Machines,Machinery and appliances,74841.0,0.001841983187870127,0.3434959349593496
+Textile Processing Machines,Machinery and appliances,155971.0,0.0038387509492830343,0.3434959349593496
+Sewing Machines,Machinery and appliances,221844.0,0.005460014141043818,0.3434959349593496
+Leather Machinery,Machinery and appliances,52488.0,0.0012918321984597644,0.3434959349593496
+Casting Machines,Machinery and appliances,22328.0,0.0005495356905808874,0.3434959349593496
+Metal-Rolling Mills,Machinery and appliances,67759.0,0.0016676813354563932,0.3434959349593496
+Non-Mechanical Removal Machinery,Machinery and appliances,199374.0,0.004906983553111512,0.3434959349593496
+Metalworking Transfer Machines,Machinery and appliances,98876.0,0.0024335314825275805,0.3434959349593496
+Metal Lathes,Machinery and appliances,91443.0,0.002250590834548015,0.3434959349593496
+Drilling Machines,Machinery and appliances,74272.0,0.0018279789865112714,0.3434959349593496
+Metal Finishing Machines,Machinery and appliances,371342.0,0.009139451917399136,0.3434959349593496
+Metalworking Machines,Machinery and appliances,181241.0,0.004460695006116563,0.3434959349593496
+Forging Machines,Machinery and appliances,391131.0,0.009626497858858522,0.3434959349593496
+Other Non-Metal Removal Machinery,Machinery and appliances,825244.0,0.02031086668925716,0.3434959349593496
+Stone Working Machines,Machinery and appliances,11274.0,0.00027747516014013456,0.3434959349593496
+Woodworking machines,Machinery and appliances,353255.0,0.00869429552025042,0.3434959349593496
+Metalworking Machine Parts,Machinery and appliances,857697.0,0.0211095984057755,0.3434959349593496
+Motor-working Tools,Machinery and appliances,799500.0,0.01967725656661678,0.3434959349593496
+Soldering and Welding Machinery,Machinery and appliances,535450.0,0.013178470329699756,0.3434959349593496
+Calculators,Machinery and appliances,211509.0,0.005205649604938772,0.3434959349593496
+Computers,Machinery and appliances,6199025.0,0.15257011305549917,0.3434959349593496
+Other Office Machines,Machinery and appliances,102174.0,0.0025147017041119487,0.3434959349593496
+Office Machine Parts,Machinery and appliances,40630664.0,1.0,0.3434959349593496
+Stone Processing Machines,Machinery and appliances,2796761.0,0.06883375078487519,0.3434959349593496
+Glass Working Machines,Machinery and appliances,19650.0,0.00048362487996750434,0.3434959349593496
+Vending Machines,Machinery and appliances,32708.0,0.0008050077645789889,0.3434959349593496
+Rubberworking Machinery,Machinery and appliances,4488747.0,0.11047683099641196,0.3434959349593496
+Tobacco Processing Machines,Machinery and appliances,754121.0,0.018560390743306582,0.3434959349593496
+Machinery Having Individual Functions,Machinery and appliances,7547294.0,0.1857536465562069,0.3434959349593496
+Metal Molds,Machinery and appliances,7701731.0,0.18955464276931333,0.3434959349593496
+Valves,Machinery and appliances,5175443.0,0.12737776079662394,0.3434959349593496
+Ball Bearings,Machinery and appliances,468727.0,0.011536286977736815,0.3434959349593496
+Transmissions,Machinery and appliances,1469708.0,0.03617238448281328,0.3434959349593496
+Gaskets,Machinery and appliances,590937.0,0.014544113775743365,0.3434959349593496
+Boat Propellers,Machinery and appliances,532995.0,0.013118047984645291,0.3434959349593496
+Metals,Exportations,441284277.0,0.10757428895145213,56.333333333333336
+Aluminium and articles thereof,Metals,70274979.0,0.4549578102654905,5.121212121212121
+Raw Aluminium,Aluminium and articles thereof,2231867.0,0.08907032772849906,0.3414141414141414
+Scrap Aluminium,Aluminium and articles thereof,25057357.0,1.0,0.3414141414141414
+Aluminium Bars,Aluminium and articles thereof,9025860.0,0.360207982030986,0.3414141414141414
+Aluminium Wire,Aluminium and articles thereof,983307.0,0.039242247296871736,0.3414141414141414
+Aluminium Plating,Aluminium and articles thereof,6218952.0,0.24818866570803935,0.3414141414141414
+Aluminium Foil,Aluminium and articles thereof,13754309.0,0.5489129998826293,0.3414141414141414
+Aluminium Pipes,Aluminium and articles thereof,85337.0,0.00340566644758264,0.3414141414141414
+Aluminium Pipe Fittings,Aluminium and articles thereof,40451.0,0.0016143362606040215,0.3414141414141414
+Aluminium Structures,Aluminium and articles thereof,1285480.0,0.05130149999459241,0.3414141414141414
+Large Aluminium Containers,Aluminium and articles thereof,4361.0,0.00017404070189844841,0.3414141414141414
+Aluminium Cans,Aluminium and articles thereof,5171199.0,0.2063744791599529,0.3414141414141414
+Aluminium Gas Containers,Aluminium and articles thereof,33581.0,0.0013401652855885798,0.3414141414141414
+Stranded Aluminium Wire,Aluminium and articles thereof,2431784.0,0.0970487031014484,0.3414141414141414
+Aluminium Housewares,Aluminium and articles thereof,197751.0,0.007891933694363695,0.3414141414141414
+Other Aluminium Products,Aluminium and articles thereof,3753383.0,0.14979165599947353,0.3414141414141414
+Copper and articles thereof,Metals,27526816.0,0.17820766521952383,5.121212121212121
+Raw Copper,Copper and articles thereof,256907.0,0.013403636246389164,0.3658008658008658
+Refined Copper,Copper and articles thereof,986507.0,0.05146913467720473,0.3658008658008658
+Scrap Copper,Copper and articles thereof,19166963.0,1.0,0.3658008658008658
+Copper Powder,Copper and articles thereof,4529.0,0.00023629199889413884,0.3658008658008658
+Copper Bars,Copper and articles thereof,350524.0,0.01828792594841447,0.3658008658008658
+Copper Wire,Copper and articles thereof,1575251.0,0.08218573803267633,0.3658008658008658
+Copper Plating,Copper and articles thereof,200880.0,0.010480533614010733,0.3658008658008658
+Copper Foil,Copper and articles thereof,28618.0,0.0014930899590091555,0.3658008658008658
+Copper Pipes,Copper and articles thereof,91597.0,0.004778900027093494,0.3658008658008658
+Copper Pipe Fittings,Copper and articles thereof,1678253.0,0.08755967233828332,0.3658008658008658
+Stranded Copper Wire,Copper and articles thereof,450792.0,0.02351921898111871,0.3658008658008658
+Copper Fasteners,Copper and articles thereof,43945.0,0.0022927471608308525,0.3658008658008658
+Copper Housewares,Copper and articles thereof,27097.0,0.0014137346641718879,0.3658008658008658
+Other Copper Products,Copper and articles thereof,2664953.0,0.13903887642502363,0.3658008658008658
+Iron and steel,Metals,154464826.0,1.0,5.121212121212121
+Ferroalloys,Iron and steel,2241689.0,0.03803391922178253,0.1829004329004329
+Iron Reductions,Iron and steel,1432.0,2.4296221431961606e-05,0.1829004329004329
+Scrap Iron,Iron and steel,24359022.0,0.4132906371354918,0.1829004329004329
+Iron Powder,Iron and steel,211970.0,0.003596417637522976,0.1829004329004329
+Iron Ingots,Iron and steel,3897277.0,0.06612367665760546,0.1829004329004329
+Semi-Finished Iron,Iron and steel,55878.00000000001,0.0009480616348988483,0.1829004329004329
+Hot-Rolled Iron,Iron and steel,224933.0,0.003816356128041494,0.1829004329004329
+Cold-Rolled Iron,Iron and steel,498980.0,0.00846601157131299,0.1829004329004329
+Coated Flat-Rolled Iron,Iron and steel,37903800.0,0.6430999426765267,0.1829004329004329
+Large Flat-Rolled Iron,Iron and steel,195500.0,0.003316977157785261,0.1829004329004329
+Large Coated Flat-Rolled Iron,Iron and steel,1806651.0,0.030652788230638873,0.1829004329004329
+Hot-Rolled Iron Bars,Iron and steel,9.000000000000002,1.5269971570366932e-07,0.1829004329004329
+Raw Iron Bars,Iron and steel,58939206.0,1.0,0.1829004329004329
+Other Iron Bars,Iron and steel,688187.0,0.01167621769455123,0.1829004329004329
+Iron Blocks,Iron and steel,9178837.0,0.15573397782114676,0.1829004329004329
+Iron Wire,Iron and steel,5092674.000000001,0.08640554133016316,0.1829004329004329
+Stainless Steel Ingots,Iron and steel,9841.0,0.0001669686558044233,0.1829004329004329
+Large Flat-Rolled Stainless Steel,Iron and steel,503921.0,0.008549843715234304,0.1829004329004329
+Flat-Rolled Stainless Steel,Iron and steel,453661.00000000006,0.007697100636204703,0.1829004329004329
+Hot-Rolled Stainless Steel Bars,Iron and steel,1311.0,2.224325858750116e-05,0.1829004329004329
+Other Stainless Steel Bars,Iron and steel,319866.0,0.005427049695918876,0.1829004329004329
+Stainless Steel Wire,Iron and steel,5234414.0,0.08881039218614516,0.1829004329004329
+Steel Ingots,Iron and steel,4064.0,6.895240495774579e-05,0.1829004329004329
+Flat Flat-Rolled Steel,Iron and steel,79540.0,0.001349526154118873,0.1829004329004329
+Flat-Rolled Iron,Iron and steel,300887.0,0.005105039928769994,0.1829004329004329
+Steel Bars,Iron and steel,1326505.0,0.022506326264388428,0.1829004329004329
+Other Steel Bars,Iron and steel,667604.0,0.011326993444736939,0.1829004329004329
+Steel Wire,Iron and steel,267167.0,0.004532924993933579,0.1829004329004329
+Iron or steel articles,Metals,102888513.0,0.6660967138240262,5.121212121212121
+Iron Sheet Piling,Iron or steel articles,4473.0,0.0001331602081931425,0.19696969696969696
+Iron Railway Products,Iron or steel articles,419.0,1.2473536157595955e-05,0.19696969696969696
+Cast Iron Pipes,Iron or steel articles,41993.0,0.0012501222049306133,0.19696969696969696
+Iron Pipes,Iron or steel articles,2695428.0,0.08024228787159081,0.19696969696969696
+Other Large Iron Pipes,Iron or steel articles,18394.0,0.0005475852603408592,0.19696969696969696
+Other Small Iron Pipes,Iron or steel articles,28168389.0,0.8385666317248882,0.19696969696969696
+Iron Pipe Fittings,Iron or steel articles,1016422.0,0.03025865529445345,0.19696969696969696
+Iron Structures,Iron or steel articles,8261072.0,0.24593026322793204,0.19696969696969696
+Large Iron Containers,Iron or steel articles,1327971.0,0.039533399247586774,0.19696969696969696
+Small Iron Containers,Iron or steel articles,11573436.0,0.3445385976458776,0.19696969696969696
+Iron Gas Containers,Iron or steel articles,1150343.0,0.034245453470495,0.19696969696969696
+Stranded Iron Wire,Iron or steel articles,1556847.0000000002,0.04634698650678948,0.19696969696969696
+Barbed Wire,Iron or steel articles,4785718.0,0.14246975301445775,0.19696969696969696
+Iron Cloth,Iron or steel articles,3562487.0,0.10605444010850965,0.19696969696969696
+Iron Chains,Iron or steel articles,326713.0,0.009726172836889372,0.19696969696969696
+Iron Anchors,Iron or steel articles,11387.0,0.000338988439681492,0.19696969696969696
+Iron Nails,Iron or steel articles,291599.0,0.008680836921285974,0.19696969696969696
+Iron Fasteners,Iron or steel articles,1685793.0,0.05018568004706959,0.19696969696969696
+Iron Sewing Needles,Iron or steel articles,25844.0,0.0007693700917826011,0.19696969696969696
+Iron Springs,Iron or steel articles,119702.0,0.00356350173063616,0.19696969696969696
+Iron Stovetops,Iron or steel articles,712176.0,0.021201320015685098,0.19696969696969696
+Iron Radiators,Iron or steel articles,403807.0,0.012021243950334964,0.19696969696969696
+Iron Housewares,Iron or steel articles,529168.0,0.01575321284353875,0.19696969696969696
+Iron Toiletry,Iron or steel articles,309661.0,0.009218538615984059,0.19696969696969696
+Other Cast Iron Products,Iron or steel articles,718155.0,0.02137931350658311,0.19696969696969696
+Other Iron Products,Iron or steel articles,33591116.0,1.0,0.19696969696969696
+Lead and articles thereof,Metals,15744186.0,0.10192732162854992,5.121212121212121
+Raw Lead,Lead and articles thereof,15104809.0,1.0,1.2803030303030303
+Scrap Lead,Lead and articles thereof,222180.0,0.014709222738268322,1.2803030303030303
+Lead Sheets,Lead and articles thereof,416693.0,0.027586777164808902,1.2803030303030303
+Other Lead Products,Lead and articles thereof,504.0,3.3366856873198466e-05,1.2803030303030303
+Metal; miscellaneous products of base metal,Metals,29206352.0,0.18908092383440098,5.121212121212121
+Padlocks,Metal; miscellaneous products of base metal,698184.0,0.02705419033558931,0.465564738292011
+Metal Mountings,Metal; miscellaneous products of base metal,1471154.0,0.057006291076512144,0.465564738292011
+Safes,Metal; miscellaneous products of base metal,308758.0,0.011964178067151186,0.465564738292011
+Filing Cabinets,Metal; miscellaneous products of base metal,8580.0,0.0003324695969534625,0.465564738292011
+Metal Office Supplies,Metal; miscellaneous products of base metal,211354.0,0.008189834404953626,0.465564738292011
+Bells and Other Metal Ornaments,Metal; miscellaneous products of base metal,40254.0,0.0015598171510215245,0.465564738292011
+Flexible Metal Tubing,Metal; miscellaneous products of base metal,166393.0,0.00644762396805099,0.465564738292011
+Other Metal Fasteners,Metal; miscellaneous products of base metal,117052.0,0.004535691289346934,0.465564738292011
+Metal Stoppers,Metal; miscellaneous products of base metal,25806871.0,1.0,0.465564738292011
+Metal Signs,Metal; miscellaneous products of base metal,349590.0,0.013546392354191254,0.465564738292011
+Coated Metal Soldering Products,Metal; miscellaneous products of base metal,28162.0,0.0010912597656647332,0.465564738292011
+"Metals; n.e.s., cermets and articles thereof",Metals,4877949.0,0.03157967497402936,5.121212121212121
+Tungsten,"Metals; n.e.s., cermets and articles thereof",330461.0,0.08214107013736453,0.569023569023569
+Molybdenum,"Metals; n.e.s., cermets and articles thereof",462.0,0.00011483707427945329,0.569023569023569
+Tantalum,"Metals; n.e.s., cermets and articles thereof",52086.99999999999,0.012947010147172906,0.569023569023569
+Cobalt,"Metals; n.e.s., cermets and articles thereof",4023091.0,1.0,0.569023569023569
+Bismuth,"Metals; n.e.s., cermets and articles thereof",1560.0,0.0003877615495150371,0.569023569023569
+Titanium,"Metals; n.e.s., cermets and articles thereof",73345.0,0.018231006954602818,0.569023569023569
+Zirconium,"Metals; n.e.s., cermets and articles thereof",600.0,0.00014913905750578348,0.569023569023569
+Other Metals,"Metals; n.e.s., cermets and articles thereof",393888.0,0.09790680847139674,0.569023569023569
+Cermets,"Metals; n.e.s., cermets and articles thereof",2455.0,0.0006102273102944974,0.569023569023569
+Nickel and articles thereof,Metals,28001854.0,0.18128304498268105,5.121212121212121
+Scrap Nickel,Nickel and articles thereof,40245.0,0.0015394900720773607,1.2803030303030303
+Nickel Bars,Nickel and articles thereof,26141773.0,1.0,1.2803030303030303
+Nickel Pipes,Nickel and articles thereof,1112018.0,0.04253797169763505,1.2803030303030303
+Other Nickel Products,Nickel and articles thereof,707818.0,0.027076128310042323,1.2803030303030303
+Tin; articles thereof,Metals,384711.0,0.0024906058548241914,5.121212121212121
+Raw Tin,Tin; articles thereof,144508.0,0.6208748480122364,1.2803030303030303
+Scrap Tin,Tin; articles thereof,232749.0,1.0,1.2803030303030303
+Tin Bars,Tin; articles thereof,68.0,0.00029216022410407776,1.2803030303030303
+Other Tin Products,Tin; articles thereof,7386.0,0.03173375610636351,1.2803030303030303
+Tools and cutlery,Metals,7481600.0,0.04843562248922612,5.121212121212121
+Garden Tools,Tools and cutlery,40092.0,0.009222371358477937,0.3414141414141414
+Hand Saws,Tools and cutlery,39256.0,0.009030066099182128,0.3414141414141414
+Hand Tools,Tools and cutlery,1482802.0,0.3410892620745735,0.3414141414141414
+Wrenches,Tools and cutlery,165338.0,0.03803273559982104,0.3414141414141414
+Other Hand Tools,Tools and cutlery,622069.0,0.14309466548431135,0.3414141414141414
+Tool Sets,Tools and cutlery,172959.0,0.03978579586428677,0.3414141414141414
+Interchangeable Tool Parts,Tools and cutlery,4347255.0,1.0,0.3414141414141414
+Cutting Blades,Tools and cutlery,246589.0,0.05672292055561498,0.3414141414141414
+Tool Plates,Tools and cutlery,13812.0,0.0031771773222412764,0.3414141414141414
+Cooking Hand Tools,Tools and cutlery,27932.0,0.006425203950538904,0.3414141414141414
+Knives,Tools and cutlery,57583.0,0.013245829839749451,0.3414141414141414
+Razor Blades,Tools and cutlery,20259.0,0.004660182114920795,0.3414141414141414
+Scissors,Tools and cutlery,209325.0,0.048151074643654444,0.3414141414141414
+Other Cutlery,Tools and cutlery,20581.0,0.0047342518439797065,0.3414141414141414
+Cutlery Sets,Tools and cutlery,15748.0,0.0036225158174526223,0.3414141414141414
+Zinc and articles thereof,Metals,432491.0,0.002799931940492394,5.121212121212121
+Raw Zinc,Zinc and articles thereof,23698.0,0.0821304424674483,1.0242424242424242
+Scrap Waste,Zinc and articles thereof,288541.0,1.0,1.0242424242424242
+Zinc Bars,Zinc and articles thereof,9.000000000000002,3.119140780686281e-05,1.0242424242424242
+Zinc Sheets,Zinc and articles thereof,760.0,0.0026339411036906367,1.0242424242424242
+Other Zinc Products,Zinc and articles thereof,119483.0,0.414093664331932,1.0242424242424242
+Mineral Products,Exportations,45074720.0,0.010988111760179024,56.333333333333336
+"Mineral fuels, mineral oils and products of their distillation",Mineral Products,9985004.0,0.3177301026893098,18.77777777777778
+Coal Tar Oil,"Mineral fuels, mineral oils and products of their distillation",117186.0,0.017547584792512456,2.0864197530864197
+Pitch Coke,"Mineral fuels, mineral oils and products of their distillation",87.0,1.302749370188063e-05,2.0864197530864197
+Refined Petroleum,"Mineral fuels, mineral oils and products of their distillation",2814359.0,0.42142579479690884,2.0864197530864197
+Petroleum Gas,"Mineral fuels, mineral oils and products of their distillation",7103.0,0.0010636125030397485,2.0864197530864197
+Petroleum Jelly,"Mineral fuels, mineral oils and products of their distillation",359542.0,0.05383828897197202,2.0864197530864197
+Petroleum Coke,"Mineral fuels, mineral oils and products of their distillation",69.0,1.0332150177353604e-05,2.0864197530864197
+Asphalt,"Mineral fuels, mineral oils and products of their distillation",7386.0,0.0011059892928975902,2.0864197530864197
+Asphalt Mixtures,"Mineral fuels, mineral oils and products of their distillation",1088.0,0.00016291854192696697,2.0864197530864197
+Electricity,"Mineral fuels, mineral oils and products of their distillation",6678184.0,1.0,2.0864197530864197
+"Ores, slag and ash",Mineral Products,3663660.0,0.11658033066573802,18.77777777777778
+Chromium Ore,"Ores, slag and ash",1699.0,0.0004811811169689271,2.682539682539683
+Molybdenum Ore,"Ores, slag and ash",450.0,0.00012744644063332385,2.682539682539683
+Precious Metal Ore,"Ores, slag and ash",201.0,5.692607681621798e-05,2.682539682539683
+Other Ores,"Ores, slag and ash",2030.0,0.0005749250544125498,2.682539682539683
+Granulated Slag,"Ores, slag and ash",128380.0,0.0363590534411247,2.682539682539683
+"Non-Iron and Steel Slag, Ash and Residues","Ores, slag and ash",3530895.0,1.0,2.682539682539683
+Other Slag and Ash,"Ores, slag and ash",5.0,1.4160715625924871e-06,2.682539682539683
+"Salt; sulphur; earths, stone; plastering materials, lime and cement",Mineral Products,31426056.0,1.0,18.77777777777778
+Salt,"Salt; sulphur; earths, stone; plastering materials, lime and cement",871095.0,0.030843041724172397,0.7222222222222222
+Sulphur,"Salt; sulphur; earths, stone; plastering materials, lime and cement",4319.0,0.0001529237307144463,0.7222222222222222
+Graphite,"Salt; sulphur; earths, stone; plastering materials, lime and cement",2130.0,7.541735272557782e-05,0.7222222222222222
+Sand,"Salt; sulphur; earths, stone; plastering materials, lime and cement",632429.0,0.02239254505487533,0.7222222222222222
+Quartz,"Salt; sulphur; earths, stone; plastering materials, lime and cement",6249.0,0.0002212596418695473,0.7222222222222222
+Kaolin,"Salt; sulphur; earths, stone; plastering materials, lime and cement",106327.0,0.0037647421893204284,0.7222222222222222
+Clays,"Salt; sulphur; earths, stone; plastering materials, lime and cement",25091.0,0.0008884022522241658,0.7222222222222222
+Chalk,"Salt; sulphur; earths, stone; plastering materials, lime and cement",2031.0,7.191203914819181e-05,0.7222222222222222
+Calcium Phosphates,"Salt; sulphur; earths, stone; plastering materials, lime and cement",4505.0,0.0001595094713749897,0.7222222222222222
+Siliceous Fossil Meals,"Salt; sulphur; earths, stone; plastering materials, lime and cement",408937.0,0.014479317357530335,0.7222222222222222
+Pumice,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1307.0,4.627722066306583e-05,0.7222222222222222
+Slate,"Salt; sulphur; earths, stone; plastering materials, lime and cement",6.999999999999999,2.478504549666876e-07,0.7222222222222222
+"Marble, Travertine and Alabaster","Salt; sulphur; earths, stone; plastering materials, lime and cement",3588.0000000000005,0.00012704106177435364,0.7222222222222222
+Granite,"Salt; sulphur; earths, stone; plastering materials, lime and cement",231.0,8.179065013900694e-06,0.7222222222222222
+Gravel and Crushed Stone,"Salt; sulphur; earths, stone; plastering materials, lime and cement",526167.0,0.018630104334065308,0.7222222222222222
+Dolomite,"Salt; sulphur; earths, stone; plastering materials, lime and cement",62492.0,0.0022126672331111777,0.7222222222222222
+Magnesium Carbonate,"Salt; sulphur; earths, stone; plastering materials, lime and cement",140195.0,0.004963913504864968,0.7222222222222222
+Gypsum,"Salt; sulphur; earths, stone; plastering materials, lime and cement",201339.0,0.007128851821791132,0.7222222222222222
+Limestone,"Salt; sulphur; earths, stone; plastering materials, lime and cement",76289.0,0.002701180479850519,0.7222222222222222
+Quicklime,"Salt; sulphur; earths, stone; plastering materials, lime and cement",5181.0,0.00018344474388320124,0.7222222222222222
+Cement,"Salt; sulphur; earths, stone; plastering materials, lime and cement",28242837.0,1.0,0.7222222222222222
+Mica,"Salt; sulphur; earths, stone; plastering materials, lime and cement",677.0,2.3970679716063934e-05,0.7222222222222222
+Soapstone,"Salt; sulphur; earths, stone; plastering materials, lime and cement",37159.0,0.0013156964365867352,0.7222222222222222
+Borax,"Salt; sulphur; earths, stone; plastering materials, lime and cement",3540.0,0.0001253415157974392,0.7222222222222222
+Feldspar,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1868.0,6.614066426825322e-05,0.7222222222222222
+Other Mineral,"Salt; sulphur; earths, stone; plastering materials, lime and cement",60066.0,0.0021267693468612946,0.7222222222222222
+Miscellaneous,Exportations,78183437.0,0.01905920532730799,56.333333333333336
+Furniture,Miscellaneous,42589194.0,1.0,18.77777777777778
+Seats,Furniture,5845209.0,0.2350492602606794,3.1296296296296298
+Medical Furniture,Furniture,154836.0,0.006226310686533631,3.1296296296296298
+Other Furniture,Furniture,24868017.0,1.0,3.1296296296296298
+Mattresses,Furniture,2113734.0,0.08499809212773178,3.1296296296296298
+Light Fixtures,Furniture,8877621.0,0.3569895018167311,3.1296296296296298
+Prefabricated Buildings,Furniture,729777.0,0.029346006961471837,3.1296296296296298
+Miscellaneous manufactured articles,Miscellaneous,2688360.0,0.06312305417191037,18.77777777777778
+Worked Ivory and Bone,Miscellaneous manufactured articles,16097.999999999998,0.01459541646984584,1.0432098765432098
+Vegetable and Mineral Carvings,Miscellaneous manufactured articles,11200.0,0.010154594636742044,1.0432098765432098
+Brooms,Miscellaneous manufactured articles,1102949.0,1.0,1.0432098765432098
+Hand Sifters,Miscellaneous manufactured articles,7904.0,0.0071662425007865274,1.0432098765432098
+Travel Kits,Miscellaneous manufactured articles,22299.000000000004,0.020217616589706326,1.0432098765432098
+Buttons,Miscellaneous manufactured articles,51503.0,0.0466957221050112,1.0432098765432098
+Zippers,Miscellaneous manufactured articles,18768.0,0.01701619929842631,1.0432098765432098
+Pens,Miscellaneous manufactured articles,375623.0,0.3405624376104425,1.0432098765432098
+Pencils and Crayons,Miscellaneous manufactured articles,110590.0,0.10026755543547344,1.0432098765432098
+Chalkboards,Miscellaneous manufactured articles,19759.0,0.017914699591730896,1.0432098765432098
+Rubber Stamps,Miscellaneous manufactured articles,31357.0,0.02843014500217145,1.0432098765432098
+Ink Ribbons,Miscellaneous manufactured articles,832063.0,0.7543984354670977,1.0432098765432098
+Lighters,Miscellaneous manufactured articles,21860.0,0.019819592746355454,1.0432098765432098
+Smoking Pipes,Miscellaneous manufactured articles,1025.0,0.0009293267413089816,1.0432098765432098
+Combs,Miscellaneous manufactured articles,27660.0,0.025078222111811155,1.0432098765432098
+Scent Sprays,Miscellaneous manufactured articles,23519.0,0.021323742076922867,1.0432098765432098
+Vacuum Flask,Miscellaneous manufactured articles,8443.0,0.007654932367679739,1.0432098765432098
+Mannequins,Miscellaneous manufactured articles,5740.0,0.005204229751330297,1.0432098765432098
+Toys and games,Miscellaneous,32905883.0,0.7726345560801174,18.77777777777778
+Models and Stuffed Animals,Toys and games,1555714.0,0.07784428171420403,3.1296296296296298
+Video and Card Games,Toys and games,122668.0,0.006138019166323617,3.1296296296296298
+Party Decorations,Toys and games,837203.0,0.041891675580458074,3.1296296296296298
+Sports Equipment,Toys and games,19984949.0,1.0,3.1296296296296298
+Fishing and Hunting Equipment,Toys and games,10191317.0,0.5099496125809478,3.1296296296296298
+Fairground Amusements,Toys and games,214032.0,0.010709659554297587,3.1296296296296298
+Paper Goods,Exportations,250646370.0,0.0611014405822861,56.333333333333336
+"Paper and paperboard; articles of paper pulp, of paper or paperboard",Paper Goods,229524375.0,1.0,18.77777777777778
+Newsprint,"Paper and paperboard; articles of paper pulp, of paper or paperboard",136806.0,0.0009124606078417907,0.8941798941798942
+Uncoated Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",552495.0,0.0036849986369716986,0.8941798941798942
+Facial Tissue,"Paper and paperboard; articles of paper pulp, of paper or paperboard",76804.0,0.0005122627993266442,0.8941798941798942
+Uncoated Kraft Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",11746735.0,0.07834768181407568,0.8941798941798942
+Other Uncoated Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",4207491.0,0.028062875863257928,0.8941798941798942
+Vegetable Parchment,"Paper and paperboard; articles of paper pulp, of paper or paperboard",308741.0,0.002059222552561162,0.8941798941798942
+Composite Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",5947253.0,0.03966663806681661,0.8941798941798942
+Corrugated Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",4533982.000000001,0.030240486321241312,0.8941798941798942
+Carbon Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",488493.0,0.0032581218638543623,0.8941798941798942
+Kaolin Coated Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",255917.0,0.0017069001460246448,0.8941798941798942
+Cellulose Fibers Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",2491865.0,0.016620094532108855,0.8941798941798942
+Cigarette Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",20230.0,0.00013492886347557436,0.8941798941798942
+Wallpaper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",6075.000000000001,4.0518677489575603e-05,0.8941798941798942
+Other Carbon Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",28633.000000000004,0.0001909746983636244,0.8941798941798942
+Letter Stock,"Paper and paperboard; articles of paper pulp, of paper or paperboard",530025.0,0.0035351295533188978,0.8941798941798942
+Toilet Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",149930856.0,1.0,0.8941798941798942
+Paper Containers,"Paper and paperboard; articles of paper pulp, of paper or paperboard",33664640.0,0.2245344347263648,0.8941798941798942
+Paper Notebooks,"Paper and paperboard; articles of paper pulp, of paper or paperboard",5711817.0,0.03809634088929633,0.8941798941798942
+Paper Labels,"Paper and paperboard; articles of paper pulp, of paper or paperboard",7729366.0,0.051552870477842135,0.8941798941798942
+Paper Spools,"Paper and paperboard; articles of paper pulp, of paper or paperboard",73226.0,0.0004883984654899856,0.8941798941798942
+Shaped Paper,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1082925.0,0.007222829435456568,0.8941798941798942
+"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",Paper Goods,9176204.0,0.039979213536688644,18.77777777777778
+Brochures,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",5841035.0,1.0,1.8777777777777778
+Newspapers,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",479478.0,0.08208784915687031,1.8777777777777778
+Children's Picture Books,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",95940.0,0.016425171223935484,1.8777777777777778
+Maps,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",22580.0,0.0038657532440740383,1.8777777777777778
+Architectural Plans,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",33910.0,0.005805477967517743,1.8777777777777778
+Postage Stamps,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",297527.99999999994,0.05093754788320905,1.8777777777777778
+Decals,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",110191.0,0.018864978552602406,1.8777777777777778
+Postcards,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",9168.0,0.0015695848424123464,1.8777777777777778
+Calendars,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",48103.0,0.008235355549144972,1.8777777777777778
+Other Printed Material,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",2238271.0,0.3831976695910913,1.8777777777777778
+Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,Paper Goods,11945791.0,0.052045849160900666,18.77777777777778
+Mechanical Wood Pulp,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,10737.0,0.0009016507842774676,4.694444444444445
+Sulfite Chemical Woodpulp,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,770.9999999999999,6.474552991319059e-05,4.694444444444445
+Recovered Paper Pulp,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,26125.0,0.002193874149133728,4.694444444444445
+Recovered Paper,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,11908158.0,1.0,4.694444444444445
+Plastics and Rubbers,Exportations,694434972.0,0.16928622257692985,56.333333333333336
+Plastics and articles thereof,Plastics and Rubbers,413802415.0,1.0,28.166666666666668
+Ethylene Polymers,Plastics and articles thereof,2294038.0,0.018865811620951727,1.0833333333333335
+Propylene Polymers,Plastics and articles thereof,1627813.0,0.013386880867769537,1.0833333333333335
+Styrene Polymers,Plastics and articles thereof,116339.0,0.0009567538367585467,1.0833333333333335
+Vinyl Chloride Polymers,Plastics and articles thereof,8481086.0,0.0697471318335141,1.0833333333333335
+Other Vinyl Polymers,Plastics and articles thereof,292054.0,0.0024018066601971875,1.0833333333333335
+Acrylic Polymers,Plastics and articles thereof,815880.0,0.006709670190860873,1.0833333333333335
+Polyacetals,Plastics and articles thereof,2670405.0,0.021960995276297777,1.0833333333333335
+Polyamides,Plastics and articles thereof,93385.0,0.0007679837117879377,1.0833333333333335
+Amino-resins,Plastics and articles thereof,411368.0,0.0033830264341251845,1.0833333333333335
+Silicone,Plastics and articles thereof,375867.0,0.0030910717331326955,1.0833333333333335
+Petroleum Resins,Plastics and articles thereof,171368.0,0.0014093037717157499,1.0833333333333335
+Cellulose,Plastics and articles thereof,319432.0,0.002626959072911544,1.0833333333333335
+Natural Polymers,Plastics and articles thereof,97388.0,0.0008009037610280417,1.0833333333333335
+Polymer Ion-Exchangers,Plastics and articles thereof,1753.0,1.4416399280015579e-05,1.0833333333333335
+Scrap Plastic,Plastics and articles thereof,3680432.0,0.030267300191070334,1.0833333333333335
+Monofilament,Plastics and articles thereof,3251581.0,0.02674049628483305,1.0833333333333335
+Plastic Pipes,Plastics and articles thereof,60563892.0,0.49806802568382275,1.0833333333333335
+Plastic Floor Coverings,Plastics and articles thereof,186464.0,0.0015334509271813033,1.0833333333333335
+Self-adhesive Plastics,Plastics and articles thereof,7661840.0,0.06300978018231293,1.0833333333333335
+Raw Plastic Sheeting,Plastics and articles thereof,18384377.0,0.15119025632991157,1.0833333333333335
+Other Plastic Sheetings,Plastics and articles thereof,62079236.0,0.5105299789927651,1.0833333333333335
+Plastic Wash Basins,Plastics and articles thereof,1302943.0,0.010715200528865567,1.0833333333333335
+Plastic Lids,Plastics and articles thereof,92393774.0,0.7598320233722317,1.0833333333333335
+Plastic Housewares,Plastics and articles thereof,5937352.0,0.04882785915459159,1.0833333333333335
+Plastic Building Materials,Plastics and articles thereof,18994717.0,0.1562095975373073,1.0833333333333335
+Other Plastic Products,Plastics and articles thereof,121597631.0,1.0,1.0833333333333335
+Rubber and articles thereof,Plastics and Rubbers,280632557.0,0.6781800850533943,28.166666666666668
+Rubber,Rubber and articles thereof,141520.0,0.0006960792309331826,1.6568627450980393
+Synthetic Rubber,Rubber and articles thereof,103315.0,0.0005081643989814992,1.6568627450980393
+Reclaimed Rubber,Rubber and articles thereof,80699.0,0.000396925507752098,1.6568627450980393
+Scrap Rubber,Rubber and articles thereof,54833.0,0.0002697011904307462,1.6568627450980393
+Compounded Unvulcanised Rubber,Rubber and articles thereof,593622.0,0.002919784802324885,1.6568627450980393
+Unvulcanised Rubber Products,Rubber and articles thereof,8956.0,4.405091571677207e-05,1.6568627450980393
+Rubber Thread,Rubber and articles thereof,16717.0,8.222411322435001e-05,1.6568627450980393
+Rubber Sheets,Rubber and articles thereof,155055.0,0.0007626523823653521,1.6568627450980393
+Rubber Pipes,Rubber and articles thereof,505138.0,0.002484568050841761,1.6568627450980393
+Rubber Belting,Rubber and articles thereof,134832.0,0.0006631836833322701,1.6568627450980393
+Rubber Tires,Rubber and articles thereof,203310189.0,1.0,1.6568627450980393
+Used Rubber Tires,Rubber and articles thereof,48203.0,0.00023709092120316705,1.6568627450980393
+Rubber Inner Tubes,Rubber and articles thereof,55388.0,0.00027243100934798696,1.6568627450980393
+Pharmaceutical Rubber Products,Rubber and articles thereof,320456.0,0.0015761925242221875,1.6568627450980393
+Rubber Apparel,Rubber and articles thereof,590576.0,0.0029048027691322446,1.6568627450980393
+Other Rubber Products,Rubber and articles thereof,74474925.0,0.3663118182434034,1.6568627450980393
+Hard Rubber,Rubber and articles thereof,38133.0,0.0001875606932813387,1.6568627450980393
+Precious Metals,Exportations,52265262.0,0.012740989628577568,56.333333333333336
+"Precious metals, gems and jewelry",Precious Metals,52265262.0,1.0,56.333333333333336
+Pearls,"Precious metals, gems and jewelry",288.00000000000006,9.627977297363256e-06,3.5208333333333335
+Diamonds,"Precious metals, gems and jewelry",33546.0,0.0011214587722824573,3.5208333333333335
+Precious Stones,"Precious metals, gems and jewelry",13340.0,0.0004459625595375896,3.5208333333333335
+Synthetic Reconstructed Jewellery Stones,"Precious metals, gems and jewelry",1456.9999999999998,4.870820459117451e-05,3.5208333333333335
+Silver,"Precious metals, gems and jewelry",159435.0,0.005329988056962188,3.5208333333333335
+Gold,"Precious metals, gems and jewelry",29912825.000000004,1.0,3.5208333333333335
+Gold Clad Metals,"Precious metals, gems and jewelry",202503.00000000003,0.006769771828638719,3.5208333333333335
+Platinum,"Precious metals, gems and jewelry",7134529.0,0.23851070569229083,3.5208333333333335
+Platinum Clad Metals,"Precious metals, gems and jewelry",1219311.0,0.04076214800842113,3.5208333333333335
+Precious Metal Scraps,"Precious metals, gems and jewelry",5372195.0,0.179595039920168,3.5208333333333335
+Jewellery,"Precious metals, gems and jewelry",2865945.0,0.09580990762323517,3.5208333333333335
+Metal-Clad Products,"Precious metals, gems and jewelry",14077.0,0.00047060082088535595,3.5208333333333335
+Other Precious Metal Products,"Precious metals, gems and jewelry",597506.0,0.019974910427216417,3.5208333333333335
+Pearl Products,"Precious metals, gems and jewelry",40732.0,0.0013616901780423613,3.5208333333333335
+Imitation Jewellery,"Precious metals, gems and jewelry",4681069.0,0.15649036826177398,3.5208333333333335
+Coin,"Precious metals, gems and jewelry",16504.0,0.0005517365879016776,3.5208333333333335
+Stone And Glass,Exportations,154614745.0,0.03769128455665573,56.333333333333336
+Ceramic products,Stone And Glass,4008246.0,0.03320995751722814,18.77777777777778
+Bricks,Ceramic products,3727.0,0.0018047071527318773,1.7070707070707072
+Refractory Bricks,Ceramic products,61296.99999999999,0.029681549326805976,1.7070707070707072
+Refractory Ceramics,Ceramic products,34537.0,0.016723684178669398,1.7070707070707072
+Ceramic Bricks,Ceramic products,44255.99999999999,0.021429868460236638,1.7070707070707072
+Unglazed Ceramics,Ceramic products,2065155.0,1.0,1.7070707070707072
+Laboratory Ceramic Ware,Ceramic products,29880.0,0.014468647631775824,1.7070707070707072
+Bathroom Ceramics,Ceramic products,1390890.9999999998,0.6735044100805991,1.7070707070707072
+Porcelain Tableware,Ceramic products,38247.0,0.01852015950376606,1.7070707070707072
+Ceramic Tableware,Ceramic products,104315.0,0.05051194704513705,1.7070707070707072
+Ornamental Ceramics,Ceramic products,136899.0,0.06628993949606689,1.7070707070707072
+Other Ceramic Articles,Ceramic products,99042.0,0.04795862780275573,1.7070707070707072
+Glass and glassware,Stone And Glass,120694102.0,1.0,18.77777777777778
+Glass Scraps,Glass and glassware,546.0,6.14365900127059e-06,1.0432098765432098
+Glass Balls,Glass and glassware,500.0,5.6260613564748986e-06,1.0432098765432098
+Cast or Rolled Glass,Glass and glassware,661528.0,0.007443594234052254,1.0432098765432098
+Blown Glass,Glass and glassware,78334.0,0.0008814237805962095,1.0432098765432098
+Float Glass,Glass and glassware,1135847.0,0.012780689827135889,1.0432098765432098
+Glass with Edge Workings,Glass and glassware,5798.0,6.523980748968292e-05,1.0432098765432098
+Safety Glass,Glass and glassware,2661967.0,0.029952779341822836,1.0432098765432098
+Insulating Glass,Glass and glassware,33755.0,0.0003798154021756204,1.0432098765432098
+Glass Mirrors,Glass and glassware,420095.0,0.004726960491096646,1.0432098765432098
+Glass Bottles,Glass and glassware,88872120.0,1.0,1.0432098765432098
+Glass Bulbs,Glass and glassware,760.0,8.551613261841847e-06,1.0432098765432098
+Interior Decorative Glassware,Glass and glassware,1496441.0,0.016838137764689308,1.0432098765432098
+Eyewear and Clock Glass,Glass and glassware,2.0,2.2504245425899597e-08,1.0432098765432098
+Glass Bricks,Glass and glassware,1094270.0,0.012312860321099576,1.0432098765432098
+Laboratory Glassware,Glass and glassware,9856757.0,0.11090943931572692,1.0432098765432098
+Glass Beads,Glass and glassware,35142.0,0.0003954220963784818,1.0432098765432098
+Glass Fibers,Glass and glassware,14289782.0,0.16079038060530118,1.0432098765432098
+Other Glass Articles,Glass and glassware,50458.0,0.0005677596078500209,1.0432098765432098
+"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",Stone And Glass,29912397.0,0.24783644357368848,18.77777777777778
+Curbstones,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",52006.0,0.003029477610549195,1.3412698412698414
+Building Stone,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",26887.0,0.001566233982902669,1.3412698412698414
+Slate,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",26309.0,0.0015325640590689298,1.3412698412698414
+Milling Stones,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",108364.0,0.006312469941728896,1.3412698412698414
+Abrasive Powder,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",10586211.0,0.6166728686122679,1.3412698412698414
+Rock Wool,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",29924.0,0.0017431467141882497,1.3412698412698414
+Asphalt,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",9205.0,0.0005362139254144779,1.3412698412698414
+Vegetable Fiber,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",236792.0,0.01379371730871755,1.3412698412698414
+Plaster Articles,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",122598.0,0.007141635505482256,1.3412698412698414
+Cement Articles,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1150278.0,0.06700652707201682,1.3412698412698414
+Asbestos Cement Articles,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",17166656.0,1.0,1.3412698412698414
+Asbestos Fibres,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",572.0,3.332040905345805e-05,1.3412698412698414
+Friction Material,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",514.0000000000001,2.9941766177408116e-05,1.3412698412698414
+Other Stone Articles,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",396081.0,0.023072693948081677,1.3412698412698414
+Textiles,Exportations,161454666.0,0.039358689620487414,56.333333333333336
+Carpets and other textile floor coverings,Textiles,93948.0,0.0024608457228006125,4.023809523809524
+Knotted Carpets,Carpets and other textile floor coverings,4394.0,0.10343204180594134,1.005952380952381
+Hand-Woven Rugs,Carpets and other textile floor coverings,34741.0,0.8177816486982722,1.005952380952381
+Tufted Carpets,Carpets and other textile floor coverings,42482.0,1.0,1.005952380952381
+Other Carpets,Carpets and other textile floor coverings,12331.0,0.29026411185914036,1.005952380952381
+Cotton,Textiles,38177119.0,1.0,4.023809523809524
+Raw Cotton,Cotton,269899.0,0.011624700223540497,0.3353174603174603
+Cotton Waste,Cotton,2220862.0,0.09565376302932799,0.3353174603174603
+Prepared Cotton,Cotton,1066498.0,0.04593466274052699,0.3353174603174603
+Cotton Sewing Thread,Cotton,10861.0,0.00046778931795921194,0.3353174603174603
+Non-Retail Pure Cotton Yarn,Cotton,23217717.0,1.0,0.3353174603174603
+Non-Retail Mixed Cotton Yarn,Cotton,10869894.0,0.46817238749184514,0.3353174603174603
+Retail Cotton Yarn,Cotton,191171.0,0.008233841423771338,0.3353174603174603
+Light Pure Woven Cotton,Cotton,10317.0,0.0004443589350322428,0.3353174603174603
+Heavy Pure Woven Cotton,Cotton,122656.0,0.0052828622211219135,0.3353174603174603
+Light Mixed Woven Cotton,Cotton,67682.0,0.0029151014287925035,0.3353174603174603
+Heavy Mixed Woven Cotton,Cotton,284.0,1.2232038145697099e-05,0.3353174603174603
+Other Cotton Fabrics,Cotton,129278.0,0.00556807544858954,0.3353174603174603
+Knitted or chrocheted fabrics,Textiles,967311.0,0.025337454091284364,4.023809523809524
+Pile Fabric,Knitted or chrocheted fabrics,7617.0,0.007936904888433188,2.011904761904762
+Light Rubberized Knitted Fabric,Knitted or chrocheted fabrics,959694.0,1.0,2.011904761904762
+Knitted or crocheted apparel and clothing accessories,Textiles,35040836.0,0.9178491441431188,4.023809523809524
+Knit Men's Coats,Knitted or crocheted apparel and clothing accessories,19530.0,0.0006257689340040627,0.23669467787114845
+Knit Women's Coats,Knitted or crocheted apparel and clothing accessories,8796.0,0.00028183633095236744,0.23669467787114845
+Knit Men's Suits,Knitted or crocheted apparel and clothing accessories,776824.0,0.02489054410592791,0.23669467787114845
+Knit Women's Suits,Knitted or crocheted apparel and clothing accessories,298322.0,0.009558660518687149,0.23669467787114845
+Knit Men's Shirts,Knitted or crocheted apparel and clothing accessories,101564.0,0.0032542547881817016,0.23669467787114845
+Knit Women's Shirts,Knitted or crocheted apparel and clothing accessories,68230.0,0.002186186091505233,0.23669467787114845
+Knit Men's Undergarments,Knitted or crocheted apparel and clothing accessories,80739.0,0.002586992215184538,0.23669467787114845
+Knit Women's Undergarments,Knitted or crocheted apparel and clothing accessories,54760.0,0.0017545881631368396,0.23669467787114845
+Knit T-shirts,Knitted or crocheted apparel and clothing accessories,1232329.0,0.039485571155775355,0.23669467787114845
+Knit Sweaters,Knitted or crocheted apparel and clothing accessories,275800.0,0.008837023655827983,0.23669467787114845
+Knit Babies' Garments,Knitted or crocheted apparel and clothing accessories,55111.0,0.0017658347015820739,0.23669467787114845
+Knit Active Wear,Knitted or crocheted apparel and clothing accessories,52560.0,0.0016840970389786758,0.23669467787114845
+Garments of Impregnated Fabric,Knitted or crocheted apparel and clothing accessories,3994.0,0.0001279734317671391,0.23669467787114845
+Other Knit Garments,Knitted or crocheted apparel and clothing accessories,658057.0,0.02108508076824944,0.23669467787114845
+Knit Socks and Hosiery,Knitted or crocheted apparel and clothing accessories,31209603.0,1.0,0.23669467787114845
+Knit Gloves,Knitted or crocheted apparel and clothing accessories,61567.0,0.0019726941095662125,0.23669467787114845
+Other Knit Clothing Accessories,Knitted or crocheted apparel and clothing accessories,83050.0,0.0026610399369706816,0.23669467787114845
+Man-made filaments,Textiles,23146176.0,0.6062839891087644,4.023809523809524
+Artificial Filament Sewing Thread,Man-made filaments,11405867.0,1.0,0.5748299319727891
+Non-Retail Synthetic Filament Yarn,Man-made filaments,10958376.0,0.9607665949462676,0.5748299319727891
+Non-Retail Artificial Filament Yarn,Man-made filaments,8367.0,0.000733569837347744,0.5748299319727891
+Synthetic Monofilament,Man-made filaments,72439.0,0.0063510296937532235,0.5748299319727891
+Retail Artificial Filament Yarn,Man-made filaments,9220.0,0.0008083559101644793,0.5748299319727891
+Synthetic Filament Yarn Woven Fabric,Man-made filaments,656479.0,0.05755625591636304,0.5748299319727891
+Artificial Filament Yarn Woven Fabric,Man-made filaments,35428.00000000001,0.0031061207359335337,0.5748299319727891
+Man-made staple fibres,Textiles,3762734.0,0.09855992538357858,4.023809523809524
+Synthetic Filament Tow,Man-made staple fibres,1586.0,0.0009376509419962979,0.3353174603174603
+Artificial Filament Tow,Man-made staple fibres,209.0,0.00012356182022523724,0.3353174603174603
+Unprocessed Synthetic Staple Fibers,Man-made staple fibres,167032.0,0.09875013376010443,0.3353174603174603
+Non-Retail Artificial Staple Fibers Sewing Thread,Man-made staple fibres,1526587.0,0.9025256863740873,0.3353174603174603
+Non-Retail Synthetic Staple Fibers Yarn,Man-made staple fibres,1691461.0,1.0,0.3353174603174603
+Non-Retail Artificial Staple Fibers Yarn,Man-made staple fibres,221462.0,0.13092941545799755,0.3353174603174603
+Retail Artificial Staple Fibers Yarn,Man-made staple fibres,173.0,0.00010227844449266049,0.3353174603174603
+Synthetic Fabrics,Man-made staple fibres,8083.0,0.004778709056844941,0.3353174603174603
+Light Synthetic Cotton Fabrics,Man-made staple fibres,35416.0,0.020938112081803836,0.3353174603174603
+Heavy Synthetic Cotton Fabrics,Man-made staple fibres,7438.0,0.00439738190830294,0.3353174603174603
+Other Synthetic Fabrics,Man-made staple fibres,82856.0,0.048984871658288305,0.3353174603174603
+Woven Fabric of Synthetic Staple Fibers,Man-made staple fibres,20431.0,0.012078906933118765,0.3353174603174603
+Non-knit or crocheted apparel and clothing accessories,Textiles,14451410.0,0.37853589737874144,4.023809523809524
+Non-Knit Men's Coats,Non-knit or crocheted apparel and clothing accessories,188182.0,0.023650709205819437,0.23669467787114845
+Non-Knit Women's Coats,Non-knit or crocheted apparel and clothing accessories,57311.0,0.007202845093020149,0.23669467787114845
+Non-Knit Men's Suits,Non-knit or crocheted apparel and clothing accessories,2864326.0,0.3599884223606294,0.23669467787114845
+Non-Knit Women's Suits,Non-knit or crocheted apparel and clothing accessories,1316035.0,0.165399246950721,0.23669467787114845
+Non-Knit Men's Shirts,Non-knit or crocheted apparel and clothing accessories,567287.0,0.07129661643112355,0.23669467787114845
+Non-Knit Women's Shirts,Non-knit or crocheted apparel and clothing accessories,241173.0,0.03031061680338763,0.23669467787114845
+Non-Knit Men's Undergarments,Non-knit or crocheted apparel and clothing accessories,299424.0,0.0376316010736589,0.23669467787114845
+Non-Knit Women's Undergarments,Non-knit or crocheted apparel and clothing accessories,168015.0,0.021116121133879714,0.23669467787114845
+Non-Knit Babies' Garments,Non-knit or crocheted apparel and clothing accessories,51130.0,0.006426017162606135,0.23669467787114845
+Felt or Coated Fabric Garments,Non-knit or crocheted apparel and clothing accessories,213535.0,0.0268370736322531,0.23669467787114845
+Non-Knit Active Wear,Non-knit or crocheted apparel and clothing accessories,287757.0,0.03616529279601122,0.23669467787114845
+Other Women's Undergarments,Non-knit or crocheted apparel and clothing accessories,7956717.0,1.0,0.23669467787114845
+Handkerchiefs,Non-knit or crocheted apparel and clothing accessories,181.0,2.274807561963056e-05,0.23669467787114845
+Scarves,Non-knit or crocheted apparel and clothing accessories,91720.0,0.011527367380290138,0.23669467787114845
+Neck Ties,Non-knit or crocheted apparel and clothing accessories,5053.0,0.0006350609177126696,0.23669467787114845
+Non-Knit Gloves,Non-knit or crocheted apparel and clothing accessories,8539.0,0.0010731813133482062,0.23669467787114845
+Other Non-Knit Clothing Accessories,Non-knit or crocheted apparel and clothing accessories,135025.0,0.016969938732268597,0.23669467787114845
+Silk,Textiles,1019.0,2.66913802479438e-05,4.023809523809524
+Silk Fabrics,Silk,1019.0,1.0,4.023809523809524
+Textile fabrics,Textiles,28938750.0,0.7580129343966474,4.023809523809524
+Gum Coated Textile Fabric,Textile fabrics,1779.0,9.561013508277129e-05,0.4023809523809524
+Polyamide Fabric,Textile fabrics,15057.0,0.0008092196761895938,0.4023809523809524
+Plastic Coated Textile Fabric,Textile fabrics,9488374.0,0.5099408206047527,0.4023809523809524
+Linoleum,Textile fabrics,606.0,3.256871380559831e-05,0.4023809523809524
+Textile Wall Coverings,Textile fabrics,32000.0,0.0017198000689424852,0.4023809523809524
+Rubber Textile Fabric,Textile fabrics,423151.0,0.0227417224679088,0.4023809523809524
+Coated Textile Fabric,Textile fabrics,4983.0,0.0002678051169856376,0.4023809523809524
+Hose Piping Textiles,Textile fabrics,361336.0,0.01941955242848131,0.4023809523809524
+Conveyor Belt Textiles,Textile fabrics,4650.0,0.0002499084475182049,0.4023809523809524
+Technical Use Textiles,Textile fabrics,18606814.0,1.0,0.4023809523809524
+"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",Textiles,6679397.0,0.17495812085767917,4.023809523809524
+Blankets,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",444127.0,0.16173603850547652,0.4023809523809524
+House Linens,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",657739.0,0.23952630718365156,0.4023809523809524
+Window Dressings,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",379215.0,0.13809728262828938,0.4023809523809524
+Bedspreads,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",946699.0,0.3447557701222761,0.4023809523809524
+Packing Bags,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",766785.0,0.27923717379358115,0.4023809523809524
+"Awnings, Tents, and Sails","Textiles, made up articles; sets; worn clothing and worn textile articles; rags",352512.0,0.12837295279422897,0.4023809523809524
+Other Cloth Articles,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",2745999.0,1.0,0.4023809523809524
+Packaged Sewing Sets,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",219.0,7.975239612250405e-05,0.4023809523809524
+Used Clothing,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",339097.0,0.12348766332398518,0.4023809523809524
+Textile Scraps,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",47005.0,0.017117631870951156,0.4023809523809524
+Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,Textiles,681285.0,0.017845374869696166,4.023809523809524
+Jute and Other Textile Fibers,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,48427.0,0.07661033251545195,0.8047619047619048
+Coconut and Other Vegetable Fibers,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,632121.0,1.0,0.8047619047619048
+Jute Yarn,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,138.0,0.00021831263318257106,0.8047619047619048
+Jute Woven Fabric,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,103.0,0.00016294348708554218,0.8047619047619048
+Other Vegetable Fibers Fabric,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,496.0,0.000784659898975038,0.8047619047619048
+"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",Textiles,6044384.0,0.15832478087201918,4.023809523809524
+Wadding,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",243413.0,0.04682070895924315,0.5029761904761905
+Felt,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",186797.0,0.03593057055892555,0.5029761904761905
+Non-woven Textiles,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",254091.0,0.04887463184038261,0.5029761904761905
+Rubber Textiles,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",6506.0,0.0012514349376936973,0.5029761904761905
+Metallic Yarn,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",94.0,1.808098434417577e-05,0.5029761904761905
+Twine and Rope,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",5198832.0,1.0,0.5029761904761905
+Netting,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",117955.0,0.022688750088481414,0.5029761904761905
+Other Articles of Twine and Rope,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",36696.0,0.007058508526530574,0.5029761904761905
+"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Textiles,52041.0,0.0013631463390414557,4.023809523809524
+Wool,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",18.000000000000004,0.0006888897393700487,0.6706349206349206
+Non-Retail Carded Wool Yarn,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1499.0000000000002,0.057369206628650166,0.6706349206349206
+Non-Retail Animal Hair Yarn,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",26129.0,1.0,0.6706349206349206
+Retail Wool or Animal Hair Yarn,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",237.0,0.009070381568372306,0.6706349206349206
+Carded Wool or Animal Hair Fabric,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",9731.0,0.3724214474338857,0.6706349206349206
+Combed Wool or Animal Hair Fabric,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",14427.0,0.5521451261050939,0.6706349206349206
+Woven fabrics,Textiles,3418256.0,0.08953677201257644,4.023809523809524
+Woven Fabrics,Woven fabrics,886738.0,0.436902837997635,0.4023809523809524
+Terry Fabric,Woven fabrics,271.0,0.00013352384706346077,0.4023809523809524
+Tulles and Net Fabric,Woven fabrics,14173.0,0.006983149389042176,0.4023809523809524
+Hand-Woven Tapestries,Woven fabrics,5415.0,0.0026680134016554987,0.4023809523809524
+Narrow Woven Fabric,Woven fabrics,2029600.0,1.0,0.4023809523809524
+Labels,Woven fabrics,444740.0,0.2191269215608987,0.4023809523809524
+Ornamental Trimmings,Woven fabrics,236.0,0.00011627906976744187,0.4023809523809524
+Metallic Fabric,Woven fabrics,1564.0,0.000770595191170674,0.4023809523809524
+Embroidery,Woven fabrics,33607.0,0.016558435159637366,0.4023809523809524
+Quilted Textiles,Woven fabrics,1912.0,0.0009420575482853765,0.4023809523809524
+Transportation,Exportations,139056874.0,0.03389865699738418,56.333333333333336
+"Aircraft, spacecraft and parts thereof",Transportation,5974700.0,0.05581435357740468,14.083333333333334
+Non-powered Aircraft,"Aircraft, spacecraft and parts thereof",601.0,0.00011093718850831014,2.816666666666667
+"Planes, Helicopters, and/or Spacecraft","Aircraft, spacecraft and parts thereof",555479.0,0.10253457327022897,2.816666666666667
+Aircraft Parts,"Aircraft, spacecraft and parts thereof",5417480.0,1.0,2.816666666666667
+Parachutes,"Aircraft, spacecraft and parts thereof",990.0,0.00018274179138640106,2.816666666666667
+Aircraft Launch Gear,"Aircraft, spacecraft and parts thereof",150.0,2.7688150210060766e-05,2.816666666666667
+Railway and other rolling stock,Transportation,1612509.0,0.015063709888822408,14.083333333333334
+Other Locomotives,Railway and other rolling stock,113400.0,0.08349882151795555,2.816666666666667
+Railway Freight Cars,Railway and other rolling stock,66.0,4.859719770886302e-05,2.816666666666667
+Locomotive Parts,Railway and other rolling stock,140474.0,0.1034339810750731,2.816666666666667
+Railway Track Fixtures,Railway and other rolling stock,466.0,0.00034312566867166926,2.816666666666667
+Shipping containers,Railway and other rolling stock,1358103.0,1.0,2.816666666666667
+"Ships, boats and floating structures",Transportation,107045941.0,1.0,14.083333333333334
+Passenger and Cargo Ships,"Ships, boats and floating structures",103202348.0,1.0,2.3472222222222223
+Fishing Ships,"Ships, boats and floating structures",23270.0,0.00022547936603147827,2.3472222222222223
+Recreational Boats,"Ships, boats and floating structures",3101929.0,0.030056767700672858,2.3472222222222223
+Special Purpose Ships,"Ships, boats and floating structures",210685.0,0.0020414748703198107,2.3472222222222223
+Other Floating Structures,"Ships, boats and floating structures",207709.00000000003,0.002012638317104956,2.3472222222222223
+Scrap Vessels,"Ships, boats and floating structures",300000.0,0.0029069106063362047,2.3472222222222223
+Vehicles and their parts,Transportation,24423724.0,0.2281611406452114,14.083333333333334
+Tractors,Vehicles and their parts,856246.0,0.051824961366391385,0.9388888888888889
+Buses,Vehicles and their parts,415788.0,0.025165895124309067,0.9388888888888889
+Cars,Vehicles and their parts,2235127.0,0.13528281641488343,0.9388888888888889
+Delivery Trucks,Vehicles and their parts,726691.0,0.04398354328114155,0.9388888888888889
+Specialized Vehicles,Vehicles and their parts,106203.0,0.006428019952203998,0.9388888888888889
+Vehicle Chassis,Vehicles and their parts,150.0,9.078867761085842e-06,0.9388888888888889
+Vehicle Bodies,Vehicles and their parts,79446.0,0.004808531520981506,0.9388888888888889
+Vehicle Parts,Vehicles and their parts,16521884.0,1.0,0.9388888888888889
+Work Trucks,Vehicles and their parts,61875.0,0.0037450329514479097,0.9388888888888889
+Motorcycles,Vehicles and their parts,283189.0,0.017140236549294256,0.9388888888888889
+Bicycles,Vehicles and their parts,148671.0,0.008998428992722622,0.9388888888888889
+Wheelchairs,Vehicles and their parts,1358.0,8.219401613036383e-05,0.9388888888888889
+Bi-Wheel Vehicle Parts,Vehicles and their parts,423956.0,0.02566026973679273,0.9388888888888889
+Baby Carriages,Vehicles and their parts,29993.0,0.0018153498717216512,0.9388888888888889
+Trailers,Vehicles and their parts,2533147.0,0.1533207108826088,0.9388888888888889
+Vegetable Products,Exportations,3138359076.0,0.7650550080102589,56.333333333333336
+Cereals,Vegetable Products,4033756.0,0.0016232930531010416,6.2592592592592595
+Corn,Cereals,49058.0,0.012377000748301689,1.5648148148148149
+Rice,Cereals,3963642.0,1.0,1.5648148148148149
+Sorghum,Cereals,344.0,8.678886741032617e-05,1.5648148148148149
+Buckwheat,Cereals,20712.0,0.0052254971564031265,1.5648148148148149
+"Coffee, tea, mate and spices",Vegetable Products,318513549.0,0.12817850941163972,6.2592592592592595
+Coffee,"Coffee, tea, mate and spices",308892299.0,1.0,0.625925925925926
+Tea,"Coffee, tea, mate and spices",621133.0,0.0020108400306865534,0.625925925925926
+Maté,"Coffee, tea, mate and spices",952.0,3.0819803636477192e-06,0.625925925925926
+Pepper,"Coffee, tea, mate and spices",1477103.0,0.004781935337274303,0.625925925925926
+Vanilla,"Coffee, tea, mate and spices",8051.0,2.606410074341154e-05,0.625925925925926
+Cinnamon,"Coffee, tea, mate and spices",142197.0,0.00046034491782522555,0.625925925925926
+Cloves,"Coffee, tea, mate and spices",18135.0,5.8709783502890113e-05,0.625925925925926
+"Nutmeg, mace and cardamons","Coffee, tea, mate and spices",561847.0,0.0018189090560655253,0.625925925925926
+Spice Seeds,"Coffee, tea, mate and spices",91377.0,0.0002958215542952076,0.625925925925926
+Spices,"Coffee, tea, mate and spices",6700455.0,0.021691881026791152,0.625925925925926
+"Fruit and nuts, edible; peel of citrus fruit or melons",Vegetable Products,2484921618.0,1.0,6.2592592592592595
+"Coconuts, Brazil Nuts, and Cashews","Fruit and nuts, edible; peel of citrus fruit or melons",2190660.0,0.0018569592887474813,0.4470899470899471
+Other Nuts,"Fruit and nuts, edible; peel of citrus fruit or melons",963325.0,0.0008165828137788007,0.4470899470899471
+Bananas,"Fruit and nuts, edible; peel of citrus fruit or melons",1179702761.0,1.0,0.4470899470899471
+Tropical Fruits,"Fruit and nuts, edible; peel of citrus fruit or melons",1108507860.0,0.9396501361583234,0.4470899470899471
+Citrus,"Fruit and nuts, edible; peel of citrus fruit or melons",341966.0,0.00028987471361864516,0.4470899470899471
+Grapes,"Fruit and nuts, edible; peel of citrus fruit or melons",818360.0,0.0006937001650367419,0.4470899470899471
+Melons,"Fruit and nuts, edible; peel of citrus fruit or melons",101026293.0,0.0856370743036686,0.4470899470899471
+Apples and Pears,"Fruit and nuts, edible; peel of citrus fruit or melons",658668.0,0.0005583338632196353,0.4470899470899471
+Pitted Fruits,"Fruit and nuts, edible; peel of citrus fruit or melons",135764.0,0.00011508322646029647,0.4470899470899471
+Other Fruits,"Fruit and nuts, edible; peel of citrus fruit or melons",8676403.0,0.007354736537740459,0.4470899470899471
+Frozen Fruits and Nuts,"Fruit and nuts, edible; peel of citrus fruit or melons",81581931.0,0.06915464954141953,0.4470899470899471
+Preserved Fruits and Nuts,"Fruit and nuts, edible; peel of citrus fruit or melons",93423.0,7.919198215727495e-05,0.4470899470899471
+Dried Fruits,"Fruit and nuts, edible; peel of citrus fruit or melons",224196.0,0.00019004448189131602,0.4470899470899471
+Citrus and Melon Peels,"Fruit and nuts, edible; peel of citrus fruit or melons",8.0,6.781369226616568e-09,0.4470899470899471
+"Lac; gums, resins and other vegetable saps and extracts",Vegetable Products,2945855.0,0.0011854921212247267,6.2592592592592595
+Insect Resins,"Lac; gums, resins and other vegetable saps and extracts",49587.0,0.01712099847113596,3.1296296296296298
+Vegetable Saps,"Lac; gums, resins and other vegetable saps and extracts",2896268.0,1.0,3.1296296296296298
+Oil seeds and oleaginous fruits,Vegetable Products,18768746.0,0.007553053530560094,6.2592592592592595
+Soybeans,Oil seeds and oleaginous fruits,5610.0,0.00046027759251353984,0.625925925925926
+Ground Nuts,Oil seeds and oleaginous fruits,76071.0,0.006241314926933599,0.625925925925926
+Linseed,Oil seeds and oleaginous fruits,20298.0,0.0016653680165489896,0.625925925925926
+Sunflower Seeds,Oil seeds and oleaginous fruits,2987.0,0.0002450711530905425,0.625925925925926
+Other Oily Seeds,Oil seeds and oleaginous fruits,3363751.0,0.2759820342415351,0.625925925925926
+Oil Seed Flower,Oil seeds and oleaginous fruits,28057.0,0.0023019622839843827,0.625925925925926
+Sowing Seeds,Oil seeds and oleaginous fruits,12188297.0,1.0,0.625925925925926
+Perfume Plants,Oil seeds and oleaginous fruits,2133614.0,0.17505431644798286,0.625925925925926
+"Locust beans, seaweed, sugar beet, cane, for food",Oil seeds and oleaginous fruits,948770.0,0.07784270435812321,0.625925925925926
+Cereal Straws,Oil seeds and oleaginous fruits,1291.0,0.00010592127841978251,0.625925925925926
+"Products of the milling industry; malt, starches, inulin, wheat gluten",Vegetable Products,9363201.0,0.00376800657701872,6.2592592592592595
+Wheat Flours,"Products of the milling industry; malt, starches, inulin, wheat gluten",3937070.0,1.0,0.6954732510288066
+Cereal Flours,"Products of the milling industry; malt, starches, inulin, wheat gluten",1700535.0,0.4319290741592098,0.6954732510288066
+Cereal Meal and Pellets,"Products of the milling industry; malt, starches, inulin, wheat gluten",84220.0,0.021391542441460274,0.6954732510288066
+Processed Cereals,"Products of the milling industry; malt, starches, inulin, wheat gluten",2249867.0,0.5714572004053776,0.6954732510288066
+Potato Flours,"Products of the milling industry; malt, starches, inulin, wheat gluten",1432.0,0.0003637222604627299,0.6954732510288066
+Legume Flours,"Products of the milling industry; malt, starches, inulin, wheat gluten",1026681.0,0.26077285900428493,0.6954732510288066
+Malt,"Products of the milling industry; malt, starches, inulin, wheat gluten",135180.0,0.034335178190888146,0.6954732510288066
+Starches,"Products of the milling industry; malt, starches, inulin, wheat gluten",184483.0,0.04685794258166606,0.6954732510288066
+Wheat Gluten,"Products of the milling industry; malt, starches, inulin, wheat gluten",43733.0,0.011108006715654027,0.6954732510288066
+Trees and other live plants,Vegetable Products,142811418.0,0.057471196260485025,6.2592592592592595
+Bulbs and Roots,Trees and other live plants,601122.0,0.008014508729728458,1.5648148148148149
+Other Live Plants,Trees and other live plants,75004223.0,1.0,1.5648148148148149
+Cut Flowers,Trees and other live plants,29826311.0,0.39766175565874473,1.5648148148148149
+Foliage,Trees and other live plants,37379762.0,0.49836876518272843,1.5648148148148149
+Vegetable plaiting materials,Vegetable Products,535997.0,0.00021569976135963576,6.2592592592592595
+Vegetable Plaiting Materials,Vegetable plaiting materials,17926.0,0.034601434938454384,3.1296296296296298
+Other Vegetable Products,Vegetable plaiting materials,518071.0,1.0,3.1296296296296298
+Vegetables and certain roots and tubers; edible,Vegetable Products,156464936.0,0.06296574301040991,6.2592592592592595
+Potatoes,Vegetables and certain roots and tubers; edible,25469.0,0.00024098948053335537,0.4470899470899471
+Tomatoes,Vegetables and certain roots and tubers; edible,153035.0,0.0014480280008411024,0.4470899470899471
+Onions,Vegetables and certain roots and tubers; edible,268808.0,0.002543480320515536,0.4470899470899471
+Cabbages,Vegetables and certain roots and tubers; edible,1723116.0,0.016304245543158867,0.4470899470899471
+Lettuce,Vegetables and certain roots and tubers; edible,361385.0,0.003419450446525055,0.4470899470899471
+Root Vegetables,Vegetables and certain roots and tubers; edible,9743869.0,0.09219717808689248,0.4470899470899471
+Cucumbers,Vegetables and certain roots and tubers; edible,263399.0,0.0024922999797010194,0.4470899470899471
+Legumes,Vegetables and certain roots and tubers; edible,50964.0,0.0004822249749068249,0.4470899470899471
+Other Vegetables,Vegetables and certain roots and tubers; edible,34108518.0,0.32273721129932864,0.4470899470899471
+Frozen Vegetables,Vegetables and certain roots and tubers; edible,1272269.0,0.012038299321084122,0.4470899470899471
+Preserved Vegetables,Vegetables and certain roots and tubers; edible,1085629.0,0.010272298431895482,0.4470899470899471
+Dried Vegetables,Vegetables and certain roots and tubers; edible,998976.0,0.009452381613148896,0.4470899470899471
+Dried Legumes,Vegetables and certain roots and tubers; edible,724388.0,0.006854210523561829,0.4470899470899471
+Cassava,Vegetables and certain roots and tubers; edible,105685111.0,1.0,0.4470899470899471
+Weapons,Exportations,177419.0,4.325040289499752e-05,56.333333333333336
+Arms and ammunition,Weapons,177419.0,1.0,56.333333333333336
+Handguns,Arms and ammunition,602.0,0.0034046500053727864,28.166666666666668
+Weapons Parts and Accessories,Arms and ammunition,176817.0,1.0,28.166666666666668
+Wood Products,Exportations,66460459.0,0.016201430671666867,56.333333333333336
+Cork and articles of cork,Wood Products,37132.0,0.00055930115853454,18.77777777777778
+Natural Cork Articles,Cork and articles of cork,36162.0,1.0,9.38888888888889
+Agglomerated Cork,Cork and articles of cork,970.0,0.026823737625131353,9.38888888888889
+"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",Wood Products,33334.0,0.0005020937417480975,18.77777777777778
+Plaiting Products,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",30147.0,1.0,9.38888888888889
+Basketwork,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",3187.0,0.10571532822503069,9.38888888888889
+Wood and articles of wood; wood charcoal,Wood Products,66389993.0,1.0,18.77777777777778
+Fuel Wood,Wood and articles of wood; wood charcoal,114489.0,0.003906971296836076,0.9883040935672515
+Wood Charcoal,Wood and articles of wood; wood charcoal,45467.0,0.0015515749456563154,0.9883040935672515
+Rough Wood,Wood and articles of wood; wood charcoal,29303773.0,1.0,0.9883040935672515
+Wood Stakes,Wood and articles of wood; wood charcoal,21342.0,0.0007283021200034549,0.9883040935672515
+Sawn Wood,Wood and articles of wood; wood charcoal,9165348.999999998,0.31277027023107223,0.9883040935672515
+Veneer Sheets,Wood and articles of wood; wood charcoal,98992.0,0.003378131546405304,0.9883040935672515
+Shaped Wood,Wood and articles of wood; wood charcoal,786918.9999999999,0.026853845748805106,0.9883040935672515
+Particle Board,Wood and articles of wood; wood charcoal,44266.0,0.0015105904621906538,0.9883040935672515
+Wood Fiberboard,Wood and articles of wood; wood charcoal,47946.0,0.0016361715605700332,0.9883040935672515
+Plywood,Wood and articles of wood; wood charcoal,196965.0,0.00672148941366697,0.9883040935672515
+Densified Wood,Wood and articles of wood; wood charcoal,17781.0,0.0006067819321423217,0.9883040935672515
+Wood Frames,Wood and articles of wood; wood charcoal,9666.0,0.0003298551350367067,0.9883040935672515
+Wood Crates,Wood and articles of wood; wood charcoal,24261443.0,0.8279289837523652,0.9883040935672515
+Wood Barrels,Wood and articles of wood; wood charcoal,48.00000000000001,1.6380143266875569e-06,0.9883040935672515
+Wooden Tool Handles,Wood and articles of wood; wood charcoal,795354.9999999999,0.027141726766720446,0.9883040935672515
+Wood Carpentry,Wood and articles of wood; wood charcoal,260239.0,0.008880733549225897,0.9883040935672515
+Wood Kitchenware,Wood and articles of wood; wood charcoal,42529.0,0.0014513148187436477,0.9883040935672515
+Wood Ornaments,Wood and articles of wood; wood charcoal,517429.0,0.01765741906340866,0.9883040935672515
+Other Wood Articles,Wood and articles of wood; wood charcoal,659995.0,0.02252252636546154,0.9883040935672515
